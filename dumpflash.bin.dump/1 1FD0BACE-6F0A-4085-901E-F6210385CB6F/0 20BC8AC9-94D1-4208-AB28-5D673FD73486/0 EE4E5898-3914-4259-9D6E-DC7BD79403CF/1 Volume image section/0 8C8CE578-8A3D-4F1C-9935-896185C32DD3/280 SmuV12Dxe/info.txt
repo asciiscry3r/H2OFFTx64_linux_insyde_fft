@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmuV12Dxe
+Fixed: No
+Offset: 1DA1CE0h
+File GUID: 15E4C005-52C0-444C-8C94-56FFA04C7B36
+Type: 07h
+Attributes: 00h
+Full size: DD52h (56658)
+Header size: 18h (24)
+Body size: DD3Ah (56634)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

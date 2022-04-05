@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: LegacySpeakerDxe
+Fixed: No
+Offset: 1E648C0h
+File GUID: 400B4476-3081-11D6-87ED-00062945C3B9
+Type: 07h
+Attributes: 00h
+Full size: 70Ah (1802)
+Header size: 18h (24)
+Body size: 6F2h (1778)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

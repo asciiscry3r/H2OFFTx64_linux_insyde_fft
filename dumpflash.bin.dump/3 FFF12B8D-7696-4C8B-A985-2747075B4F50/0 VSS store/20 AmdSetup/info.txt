@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: AmdSetup
+Fixed: Yes
+Base: EBB885h
+Offset: 83Dh
+Variable GUID: 3A997502-647A-4C82-998E-52EF9486A247
+Full size: 5A9h (1449)
+Header size: 4Eh (78)
+Body size: 55Bh (1371)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

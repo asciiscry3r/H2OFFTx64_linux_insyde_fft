@@ -1,0 +1,14 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Offset: 17806B0h
+File GUID: 245031A5-33E6-4962-9B66-95CF63263666
+Type: 02h
+Attributes: 00h
+Full size: F3h (243)
+Header size: 18h (24)
+Body size: DBh (219)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 73h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootOptionPolicyDxe
+Fixed: No
+Offset: 19CAD8h
+File GUID: 2D6BB83D-84A2-404A-B4CA-3E7AC0EFB3D2
+Type: 07h
+Attributes: 00h
+Full size: 4196h (16790)
+Header size: 18h (24)
+Body size: 417Eh (16766)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Bh, valid
+Data checksum: AAh, valid

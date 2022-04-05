@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NetworkLockerDxe
+Fixed: No
+Offset: 16DA488h
+File GUID: C613EC78-63ED-4B93-ACD4-54B3D4CCC268
+Type: 07h
+Attributes: 00h
+Full size: 1E9Ah (7834)
+Header size: 18h (24)
+Body size: 1E82h (7810)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 85h, valid
+Data checksum: AAh, valid

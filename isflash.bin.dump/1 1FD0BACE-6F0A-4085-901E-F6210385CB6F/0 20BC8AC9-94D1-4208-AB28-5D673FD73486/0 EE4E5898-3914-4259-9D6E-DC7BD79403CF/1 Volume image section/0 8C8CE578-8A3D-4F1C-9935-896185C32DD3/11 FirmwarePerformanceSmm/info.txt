@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: FirmwarePerformanceSmm
+Fixed: No
+Offset: 56878h
+File GUID: 044310AB-77FD-402A-AF1A-87D4120E7329
+Type: 0Ah
+Attributes: 00h
+Full size: 70AAh (28842)
+Header size: 18h (24)
+Body size: 7092h (28818)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Ch, valid
+Data checksum: AAh, valid

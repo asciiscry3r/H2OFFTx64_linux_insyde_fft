@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: InstallVerbtableDxe
+Fixed: No
+Offset: 1E58D88h
+File GUID: 48959D4F-4574-470E-AA4C-CF144D1C1678
+Type: 07h
+Attributes: 00h
+Full size: 1A92h (6802)
+Header size: 18h (24)
+Body size: 1A7Ah (6778)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A6h, valid
+Data checksum: AAh, valid

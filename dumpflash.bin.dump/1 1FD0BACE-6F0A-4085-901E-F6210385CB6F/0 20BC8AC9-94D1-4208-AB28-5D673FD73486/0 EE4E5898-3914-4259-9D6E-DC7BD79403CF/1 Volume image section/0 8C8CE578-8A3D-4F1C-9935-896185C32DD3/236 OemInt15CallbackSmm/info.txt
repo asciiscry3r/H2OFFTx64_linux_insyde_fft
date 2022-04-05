@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OemInt15CallbackSmm
+Fixed: No
+Offset: 1C55C08h
+File GUID: CFD5D6B3-3C21-4F15-B0E8-088F0128890D
+Type: 0Ah
+Attributes: 00h
+Full size: 5092h (20626)
+Header size: 18h (24)
+Body size: 507Ah (20602)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 38h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: IdeBusDxe
+Fixed: No
+Offset: 206D28h
+File GUID: 69FD8E47-A161-4550-B01A-5594CEB2B2B2
+Type: 0Ch
+Attributes: 00h
+Full size: 1B0BAh (110778)
+Header size: 18h (24)
+Body size: 1B0A2h (110754)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 20h, valid
+Data checksum: AAh, valid

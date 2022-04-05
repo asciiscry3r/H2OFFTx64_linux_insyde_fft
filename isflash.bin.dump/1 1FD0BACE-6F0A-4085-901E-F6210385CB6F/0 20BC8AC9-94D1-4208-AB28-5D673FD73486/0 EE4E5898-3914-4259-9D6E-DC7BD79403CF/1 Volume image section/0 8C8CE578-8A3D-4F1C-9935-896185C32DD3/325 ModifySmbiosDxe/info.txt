@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ModifySmbiosDxe
+Fixed: No
+Offset: 1EC73A0h
+File GUID: 011A7546-DB4E-4119-A216-9A3167B6AF56
+Type: 07h
+Attributes: 00h
+Full size: 1EBAh (7866)
+Header size: 18h (24)
+Body size: 1EA2h (7842)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 23h, valid
+Data checksum: AAh, valid

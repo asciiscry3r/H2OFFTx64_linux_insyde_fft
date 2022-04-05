@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: fTPMTisDxe
+Fixed: No
+Offset: 1E40458h
+File GUID: 97A20DF5-6F57-4C76-9095-0F6439F8A81C
+Type: 0Ch
+Attributes: 00h
+Full size: 80BEh (32958)
+Header size: 18h (24)
+Body size: 80A6h (32934)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 66h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,9 @@
+Type: FDC store
+Subtype: 
+Fixed: Yes
+Base: F07000h
+Offset: 4C000h
+Signature: _FDC
+Full size: 4000h (16384)
+Header size: 8h (8)
+Body size: 3FF8h (16376)

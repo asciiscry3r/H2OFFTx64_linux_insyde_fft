@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdLegacyInterrupt
+Fixed: No
+Offset: 1DEC978h
+File GUID: 30499E37-FC01-4DD6-8E07-2E3853DEBE60
+Type: 07h
+Attributes: 00h
+Full size: AF2h (2802)
+Header size: 18h (24)
+Body size: ADAh (2778)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 45h, valid
+Data checksum: AAh, valid

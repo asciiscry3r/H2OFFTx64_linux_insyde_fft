@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmEcInitDxe
+Fixed: No
+Offset: 1797680h
+File GUID: A6CA8BDC-AE14-4C13-9364-2F0E09CE0F54
+Type: 07h
+Attributes: 00h
+Full size: 78Ah (1930)
+Header size: 18h (24)
+Body size: 772h (1906)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 02h, valid
+Data checksum: AAh, valid

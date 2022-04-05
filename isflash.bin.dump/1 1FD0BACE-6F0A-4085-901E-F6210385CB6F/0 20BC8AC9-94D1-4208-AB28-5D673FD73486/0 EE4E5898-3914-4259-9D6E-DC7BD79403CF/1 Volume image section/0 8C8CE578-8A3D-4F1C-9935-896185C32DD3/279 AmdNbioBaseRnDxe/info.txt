@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioBaseRnDxe
+Fixed: No
+Offset: 1D9F120h
+File GUID: D890F055-873A-4E6E-A79F-1B8DD2427FE4
+Type: 07h
+Attributes: 00h
+Full size: 2BBEh (11198)
+Header size: 18h (24)
+Body size: 2BA6h (11174)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 81h, valid
+Data checksum: AAh, valid

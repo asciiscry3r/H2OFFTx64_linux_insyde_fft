@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: IhisiServicesSmm
+Fixed: No
+Offset: 602AA8h
+File GUID: 87C2106E-8790-459D-BD44-2EF32A68C3F9
+Type: 0Ah
+Attributes: 00h
+Full size: 160C2h (90306)
+Header size: 18h (24)
+Body size: 160AAh (90282)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A3h, valid
+Data checksum: AAh, valid

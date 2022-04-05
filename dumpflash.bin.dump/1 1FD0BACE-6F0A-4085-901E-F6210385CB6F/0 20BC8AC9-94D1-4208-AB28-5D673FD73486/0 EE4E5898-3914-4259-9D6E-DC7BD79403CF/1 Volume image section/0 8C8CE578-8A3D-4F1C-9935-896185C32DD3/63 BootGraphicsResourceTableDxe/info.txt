@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootGraphicsResourceTableDxe
+Fixed: No
+Offset: 1F4D38h
+File GUID: B8E62775-BB0A-43F0-A843-5BE8B14F8CCD
+Type: 07h
+Attributes: 00h
+Full size: 56EAh (22250)
+Header size: 18h (24)
+Body size: 56D2h (22226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 00h, valid
+Data checksum: AAh, valid

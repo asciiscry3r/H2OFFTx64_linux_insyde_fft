@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BiosProtectDxe
+Fixed: No
+Offset: 3A2978h
+File GUID: C7D4F4E3-DAEA-40B0-8846-F4CAF3135CE8
+Type: 07h
+Attributes: 00h
+Full size: 90BEh (37054)
+Header size: 18h (24)
+Body size: 90A6h (37030)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AFh, valid
+Data checksum: AAh, valid

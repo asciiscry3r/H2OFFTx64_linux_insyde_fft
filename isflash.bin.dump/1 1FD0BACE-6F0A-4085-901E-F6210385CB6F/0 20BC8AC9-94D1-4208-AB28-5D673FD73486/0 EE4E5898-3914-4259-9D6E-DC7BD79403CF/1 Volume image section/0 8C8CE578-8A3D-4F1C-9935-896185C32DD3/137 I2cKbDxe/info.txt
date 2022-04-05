@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: I2cKbDxe
+Fixed: No
+Offset: 5F87E0h
+File GUID: 69F04F6E-BCCF-45F8-894E-2C68088F94FF
+Type: 07h
+Attributes: 00h
+Full size: 4502h (17666)
+Header size: 18h (24)
+Body size: 44EAh (17642)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Fh, valid
+Data checksum: AAh, valid

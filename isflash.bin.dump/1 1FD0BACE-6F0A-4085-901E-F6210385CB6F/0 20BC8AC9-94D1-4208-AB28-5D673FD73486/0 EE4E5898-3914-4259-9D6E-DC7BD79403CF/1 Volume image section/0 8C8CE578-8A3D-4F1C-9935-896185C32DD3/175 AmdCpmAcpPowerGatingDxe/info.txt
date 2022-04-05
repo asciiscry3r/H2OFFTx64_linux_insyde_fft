@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmAcpPowerGatingDxe
+Fixed: No
+Offset: 1778130h
+File GUID: D303BB6F-7434-41FD-BC8E-0984A03C9B7D
+Type: 07h
+Attributes: 00h
+Full size: 115Bh (4443)
+Header size: 18h (24)
+Body size: 1143h (4419)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DCh, valid
+Data checksum: AAh, valid

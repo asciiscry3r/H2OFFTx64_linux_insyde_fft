@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioAlibRNDxe
+Fixed: No
+Offset: 1D8E110h
+File GUID: FECCA19A-D1D3-4CDD-B477-56573F58B1A3
+Type: 07h
+Attributes: 00h
+Full size: A9BEh (43454)
+Header size: 18h (24)
+Body size: A9A6h (43430)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FDh, valid
+Data checksum: AAh, valid

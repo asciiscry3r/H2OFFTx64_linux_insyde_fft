@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Mtftp4Dxe
+Fixed: No
+Offset: 1713810h
+File GUID: 0BB51CDD-A750-442F-A15E-7DEADFBA30FF
+Type: 07h
+Attributes: 00h
+Full size: 7B62h (31586)
+Header size: 18h (24)
+Body size: 7B4Ah (31562)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CBh, valid
+Data checksum: AAh, valid

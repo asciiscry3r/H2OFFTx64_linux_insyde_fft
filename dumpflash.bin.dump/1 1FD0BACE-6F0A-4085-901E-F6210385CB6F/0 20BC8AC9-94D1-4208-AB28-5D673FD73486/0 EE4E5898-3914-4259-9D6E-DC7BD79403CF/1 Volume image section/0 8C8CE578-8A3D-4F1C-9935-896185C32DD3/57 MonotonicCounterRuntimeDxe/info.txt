@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MonotonicCounterRuntimeDxe
+Fixed: No
+Offset: 1D40D8h
+File GUID: AD608272-D07F-4964-801E-7BD3B7888652
+Type: 07h
+Attributes: 00h
+Full size: 50A2h (20642)
+Header size: 18h (24)
+Body size: 508Ah (20618)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 07h, valid
+Data checksum: AAh, valid

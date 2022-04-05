@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PiSmmCommunicationSmm
+Fixed: No
+Offset: 9ACA8h
+File GUID: E21F35A8-42FF-4050-82D6-93F7CDFA7073
+Type: 0Ah
+Attributes: 00h
+Full size: 60A6h (24742)
+Header size: 18h (24)
+Body size: 608Eh (24718)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

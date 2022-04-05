@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Cf9Reset
+Fixed: No
+Offset: 1DE58F8h
+File GUID: 05FC0C8E-276A-422D-BAE1-645CFD7B786B
+Type: 07h
+Attributes: 00h
+Full size: 707Eh (28798)
+Header size: 18h (24)
+Body size: 7066h (28774)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BAh, valid
+Data checksum: AAh, valid

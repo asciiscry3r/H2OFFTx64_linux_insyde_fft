@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: LpcIoDecode
+Fixed: No
+Offset: 1E9A170h
+File GUID: 3EA81E9C-E6C9-4290-865E-59DC1B664946
+Type: 07h
+Attributes: 00h
+Full size: 77Eh (1918)
+Header size: 18h (24)
+Body size: 766h (1894)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

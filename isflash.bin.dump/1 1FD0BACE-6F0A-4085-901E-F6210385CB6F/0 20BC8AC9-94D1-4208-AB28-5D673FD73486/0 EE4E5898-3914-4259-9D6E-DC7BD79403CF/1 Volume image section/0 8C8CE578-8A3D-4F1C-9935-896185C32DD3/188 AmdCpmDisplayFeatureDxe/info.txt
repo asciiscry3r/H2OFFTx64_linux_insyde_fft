@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmDisplayFeatureDxe
+Fixed: No
+Offset: 1780A30h
+File GUID: 57E9EEE9-EB7D-4453-BBF7-6C138BF06458
+Type: 07h
+Attributes: 00h
+Full size: 3A3Ah (14906)
+Header size: 18h (24)
+Body size: 3A22h (14882)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 07h, valid
+Data checksum: AAh, valid

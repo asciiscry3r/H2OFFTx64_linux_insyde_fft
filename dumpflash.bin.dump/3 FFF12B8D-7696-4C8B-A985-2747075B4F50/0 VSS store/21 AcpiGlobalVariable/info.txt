@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: AcpiGlobalVariable
+Fixed: Yes
+Base: EBBE2Eh
+Offset: DE6h
+Variable GUID: C020489E-6DB2-4EF2-9AA5-CA06FC11D36A
+Full size: 6Ah (106)
+Header size: 62h (98)
+Body size: 8h (8)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

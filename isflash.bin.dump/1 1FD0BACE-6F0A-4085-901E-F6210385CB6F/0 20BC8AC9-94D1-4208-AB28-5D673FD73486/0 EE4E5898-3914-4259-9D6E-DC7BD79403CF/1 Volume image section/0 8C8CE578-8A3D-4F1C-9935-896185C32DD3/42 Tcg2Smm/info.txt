@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: Tcg2Smm
+Fixed: No
+Offset: 1437E8h
+File GUID: 44A20657-10B8-4049-A148-ACD8812AF257
+Type: 0Ah
+Attributes: 00h
+Full size: A843h (43075)
+Header size: 18h (24)
+Body size: A82Bh (43051)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 16h, valid
+Data checksum: AAh, valid

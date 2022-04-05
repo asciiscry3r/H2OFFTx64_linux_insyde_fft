@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: ResourceSizeForEachRb
+Fixed: Yes
+Base: EBD18Ah
+Offset: 2142h
+Variable GUID: 542B8F2F-BD52-4233-8C3D-66530DE8A369
+Full size: 468h (1128)
+Header size: 68h (104)
+Body size: 400h (1024)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

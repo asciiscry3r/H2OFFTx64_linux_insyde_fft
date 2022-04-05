@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SpiLockSmi
+Fixed: No
+Offset: 1CEE5F8h
+File GUID: BC05DC37-9DA0-4050-9728-F34DDB01E301
+Type: 0Ah
+Attributes: 00h
+Full size: 60CAh (24778)
+Header size: 18h (24)
+Body size: 60B2h (24754)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Ch, valid
+Data checksum: AAh, valid

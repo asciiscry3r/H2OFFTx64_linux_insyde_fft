@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: 9C6B20h
+Offset: 28CB20h
+Full size: 1134E0h (1127648)

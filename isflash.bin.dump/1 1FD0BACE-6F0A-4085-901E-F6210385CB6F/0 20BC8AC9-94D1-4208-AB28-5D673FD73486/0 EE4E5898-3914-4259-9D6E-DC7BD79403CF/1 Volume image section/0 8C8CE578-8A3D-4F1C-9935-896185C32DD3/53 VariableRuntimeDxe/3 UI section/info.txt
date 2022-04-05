@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 190ECh
+Type: 15h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Text: VariableRuntimeDxe

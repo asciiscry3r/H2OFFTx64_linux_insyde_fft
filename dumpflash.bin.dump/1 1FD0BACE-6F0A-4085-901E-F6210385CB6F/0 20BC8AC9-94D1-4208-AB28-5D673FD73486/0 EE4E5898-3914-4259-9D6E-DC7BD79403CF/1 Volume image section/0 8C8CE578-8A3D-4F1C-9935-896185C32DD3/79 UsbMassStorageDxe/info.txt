@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UsbMassStorageDxe
+Fixed: No
+Offset: 27C240h
+File GUID: 9FB4B4A7-42C0-4BCD-8540-9BCC6711F83E
+Type: 07h
+Attributes: 00h
+Full size: 3D32h (15666)
+Header size: 18h (24)
+Body size: 3D1Ah (15642)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E8h, valid
+Data checksum: AAh, valid

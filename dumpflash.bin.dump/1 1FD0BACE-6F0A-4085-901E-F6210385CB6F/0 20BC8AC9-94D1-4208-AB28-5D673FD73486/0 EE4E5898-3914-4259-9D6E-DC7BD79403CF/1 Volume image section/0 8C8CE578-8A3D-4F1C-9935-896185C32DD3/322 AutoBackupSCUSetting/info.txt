@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AutoBackupSCUSetting
+Fixed: No
+Offset: 1EBC710h
+File GUID: 2EACAEEE-6254-4FAC-9B32-9B12CC56514F
+Type: 07h
+Attributes: 00h
+Full size: 3C06h (15366)
+Header size: 18h (24)
+Body size: 3BEEh (15342)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 54h, valid
+Data checksum: AAh, valid

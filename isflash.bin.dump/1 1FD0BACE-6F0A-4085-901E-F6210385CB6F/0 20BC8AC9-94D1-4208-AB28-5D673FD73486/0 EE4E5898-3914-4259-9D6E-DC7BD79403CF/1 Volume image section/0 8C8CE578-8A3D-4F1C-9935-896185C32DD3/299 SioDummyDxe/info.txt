@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SioDummyDxe
+Fixed: No
+Offset: 1E3E7C8h
+File GUID: B0A034CF-41CE-4104-8ED3-4F97E8ADB981
+Type: 07h
+Attributes: 00h
+Full size: 1C8Eh (7310)
+Header size: 18h (24)
+Body size: 1C76h (7286)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

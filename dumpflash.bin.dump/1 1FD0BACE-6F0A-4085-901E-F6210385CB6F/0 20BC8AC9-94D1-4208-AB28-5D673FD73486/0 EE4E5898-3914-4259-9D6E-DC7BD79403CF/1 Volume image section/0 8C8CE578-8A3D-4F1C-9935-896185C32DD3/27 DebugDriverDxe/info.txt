@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DebugDriverDxe
+Fixed: No
+Offset: B0650h
+File GUID: 7C380900-1B96-4615-978E-89E02E2C89D0
+Type: 07h
+Attributes: 00h
+Full size: 506h (1286)
+Header size: 18h (24)
+Body size: 4EEh (1262)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E4h, valid
+Data checksum: AAh, valid

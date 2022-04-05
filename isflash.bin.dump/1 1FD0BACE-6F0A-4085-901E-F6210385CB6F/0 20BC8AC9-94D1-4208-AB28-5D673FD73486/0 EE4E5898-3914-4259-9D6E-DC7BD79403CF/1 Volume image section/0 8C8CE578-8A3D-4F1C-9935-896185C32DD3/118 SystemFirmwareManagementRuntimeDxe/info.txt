@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SystemFirmwareManagementRuntimeDxe
+Fixed: No
+Offset: 3C0870h
+File GUID: B795675E-7583-4F98-AC6A-F9DDBBCC32E8
+Type: 07h
+Attributes: 00h
+Full size: 808Eh (32910)
+Header size: 18h (24)
+Body size: 8076h (32886)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Eh, valid
+Data checksum: AAh, valid

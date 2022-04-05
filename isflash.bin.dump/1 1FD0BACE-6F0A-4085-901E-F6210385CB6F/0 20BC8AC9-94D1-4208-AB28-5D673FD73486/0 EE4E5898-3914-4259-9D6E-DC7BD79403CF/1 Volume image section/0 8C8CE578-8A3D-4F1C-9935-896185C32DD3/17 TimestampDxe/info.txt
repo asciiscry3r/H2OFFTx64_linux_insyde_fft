@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TimestampDxe
+Fixed: No
+Offset: 6D390h
+File GUID: C10194E7-DEB2-4AF4-9EEE-BFFDE4D7D4C7
+Type: 07h
+Attributes: 00h
+Full size: AE2h (2786)
+Header size: 18h (24)
+Body size: ACAh (2762)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 64h, valid
+Data checksum: AAh, valid

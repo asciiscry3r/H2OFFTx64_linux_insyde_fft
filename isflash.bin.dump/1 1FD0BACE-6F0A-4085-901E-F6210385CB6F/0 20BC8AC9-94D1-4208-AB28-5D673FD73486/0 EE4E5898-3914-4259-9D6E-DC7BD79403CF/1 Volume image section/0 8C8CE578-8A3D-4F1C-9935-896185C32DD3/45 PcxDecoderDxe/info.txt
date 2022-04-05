@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PcxDecoderDxe
+Fixed: No
+Offset: 151B60h
+File GUID: A8F634A5-28F1-4456-A9D5-7E24B99BDB65
+Type: 07h
+Attributes: 00h
+Full size: 9E2h (2530)
+Header size: 18h (24)
+Body size: 9CAh (2506)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 30h, valid
+Data checksum: AAh, valid

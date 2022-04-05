@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 544Ch
+Type: 15h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Text: AmdAcpiDxe

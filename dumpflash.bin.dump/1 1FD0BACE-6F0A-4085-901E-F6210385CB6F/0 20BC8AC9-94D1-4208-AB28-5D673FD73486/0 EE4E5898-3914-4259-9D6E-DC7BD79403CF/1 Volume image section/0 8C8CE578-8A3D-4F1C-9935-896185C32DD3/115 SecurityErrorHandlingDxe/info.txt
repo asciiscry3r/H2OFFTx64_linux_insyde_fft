@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SecurityErrorHandlingDxe
+Fixed: No
+Offset: 3B4AB8h
+File GUID: 0541150C-E33B-4DAF-A263-02E4BB4BF1CF
+Type: 07h
+Attributes: 00h
+Full size: 127Ah (4730)
+Header size: 18h (24)
+Body size: 1262h (4706)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 3248h
+Type: 15h
+Full size: 3Ah (58)
+Header size: 4h (4)
+Body size: 36h (54)
+Text: AmdCpmModernStandbyInitDxe

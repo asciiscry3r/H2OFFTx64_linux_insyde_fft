@@ -1,0 +1,6 @@
+Type: Padding
+Subtype: Empty (0xFF)
+Fixed: Yes
+Base: 10141D0h
+Offset: 26000h
+Full size: 26000h (155648)

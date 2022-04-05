@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 7058h
+Type: 15h
+Full size: 10h (16)
+Header size: 4h (4)
+Body size: Ch (12)
+Text: PcRtc

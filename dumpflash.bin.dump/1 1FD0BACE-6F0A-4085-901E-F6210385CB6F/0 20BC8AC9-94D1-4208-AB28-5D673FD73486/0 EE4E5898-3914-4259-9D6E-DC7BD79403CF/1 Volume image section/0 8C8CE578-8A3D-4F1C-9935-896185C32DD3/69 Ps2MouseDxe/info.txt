@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Ps2MouseDxe
+Fixed: No
+Offset: 204120h
+File GUID: 202A2B0E-9A31-4812-B291-8747DF152439
+Type: 07h
+Attributes: 00h
+Full size: 2C06h (11270)
+Header size: 18h (24)
+Body size: 2BEEh (11246)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BDh, valid
+Data checksum: AAh, valid

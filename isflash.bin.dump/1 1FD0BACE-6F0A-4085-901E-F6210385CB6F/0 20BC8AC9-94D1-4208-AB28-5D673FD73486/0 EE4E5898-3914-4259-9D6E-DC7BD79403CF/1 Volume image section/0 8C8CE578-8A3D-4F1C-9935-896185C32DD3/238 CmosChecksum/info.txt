@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CmosChecksum
+Fixed: No
+Offset: 1C5B490h
+File GUID: 4DE67E0A-162C-4999-A5B8-BA0E5D43284C
+Type: 07h
+Attributes: 00h
+Full size: 792h (1938)
+Header size: 18h (24)
+Body size: 77Ah (1914)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 48h, valid
+Data checksum: AAh, valid

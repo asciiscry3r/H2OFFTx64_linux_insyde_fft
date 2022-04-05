@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdCcxVhRnSmm
+Fixed: No
+Offset: 1D83820h
+File GUID: 6E5950E5-8610-4AC9-9153-A3D352124A7A
+Type: 0Ah
+Attributes: 00h
+Full size: 80CEh (32974)
+Header size: 18h (24)
+Body size: 80B6h (32950)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 81h, valid
+Data checksum: AAh, valid

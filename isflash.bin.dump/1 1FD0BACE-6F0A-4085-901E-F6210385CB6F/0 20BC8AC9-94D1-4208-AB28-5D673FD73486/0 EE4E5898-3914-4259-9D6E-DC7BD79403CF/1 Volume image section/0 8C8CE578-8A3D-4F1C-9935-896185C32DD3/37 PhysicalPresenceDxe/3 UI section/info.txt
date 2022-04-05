@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 81A0h
+Type: 15h
+Full size: 2Ch (44)
+Header size: 4h (4)
+Body size: 28h (40)
+Text: PhysicalPresenceDxe

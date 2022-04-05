@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemBadgingSupportDxe
+Fixed: No
+Offset: 1C32480h
+File GUID: 12AEDBEA-392D-4E2A-8789-5F6DC6B23661
+Type: 07h
+Attributes: 00h
+Full size: 4DBAh (19898)
+Header size: 18h (24)
+Body size: 4DA2h (19874)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A4h, valid
+Data checksum: AAh, valid

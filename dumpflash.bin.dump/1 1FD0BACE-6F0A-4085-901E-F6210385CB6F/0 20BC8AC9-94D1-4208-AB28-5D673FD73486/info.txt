@@ -1,0 +1,15 @@
+Type: File
+Subtype: Volume image
+Fixed: No
+Base: 73A078h
+Offset: 78h
+File GUID: 20BC8AC9-94D1-4208-AB28-5D673FD73486
+Type: 0Bh
+Attributes: 00h
+Full size: 28CAA4h (2673316)
+Header size: 18h (24)
+Body size: 28CA8Ch (2673292)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Ah, valid
+Data checksum: AAh, valid

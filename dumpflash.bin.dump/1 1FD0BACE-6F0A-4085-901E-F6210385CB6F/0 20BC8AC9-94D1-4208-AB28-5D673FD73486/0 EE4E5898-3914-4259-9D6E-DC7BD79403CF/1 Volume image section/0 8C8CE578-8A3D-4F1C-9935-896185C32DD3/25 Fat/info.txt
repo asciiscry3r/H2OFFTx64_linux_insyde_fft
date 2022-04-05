@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Fat
+Fixed: No
+Offset: A2628h
+File GUID: 961578FE-B6B7-44C3-AF35-6BC705CD2B1F
+Type: 07h
+Attributes: 00h
+Full size: 6F96h (28566)
+Header size: 18h (24)
+Body size: 6F7Eh (28542)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Dh, valid
+Data checksum: AAh, valid

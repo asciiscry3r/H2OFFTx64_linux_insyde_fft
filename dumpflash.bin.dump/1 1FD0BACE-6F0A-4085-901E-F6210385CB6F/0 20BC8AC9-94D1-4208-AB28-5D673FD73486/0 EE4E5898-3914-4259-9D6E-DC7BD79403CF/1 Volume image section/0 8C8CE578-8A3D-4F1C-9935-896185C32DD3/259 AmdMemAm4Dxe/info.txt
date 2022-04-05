@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdMemAm4Dxe
+Fixed: No
+Offset: 1D1ECB0h
+File GUID: 9FF8B917-D14C-4A43-9314-123DA3960AD6
+Type: 07h
+Attributes: 00h
+Full size: 612h (1554)
+Header size: 18h (24)
+Body size: 5FAh (1530)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C1h, valid
+Data checksum: AAh, valid

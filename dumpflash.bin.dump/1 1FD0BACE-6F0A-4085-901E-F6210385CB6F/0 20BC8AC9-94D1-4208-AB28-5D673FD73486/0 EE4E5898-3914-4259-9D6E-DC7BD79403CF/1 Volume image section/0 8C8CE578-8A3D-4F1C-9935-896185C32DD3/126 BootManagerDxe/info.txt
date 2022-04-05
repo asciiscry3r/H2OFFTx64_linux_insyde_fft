@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootManagerDxe
+Fixed: No
+Offset: 4690B0h
+File GUID: 847BC3FE-B974-446D-9449-5AD5412E993B
+Type: 07h
+Attributes: 00h
+Full size: 24882h (149634)
+Header size: 18h (24)
+Body size: 2486Ah (149610)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 40h, valid
+Data checksum: AAh, valid

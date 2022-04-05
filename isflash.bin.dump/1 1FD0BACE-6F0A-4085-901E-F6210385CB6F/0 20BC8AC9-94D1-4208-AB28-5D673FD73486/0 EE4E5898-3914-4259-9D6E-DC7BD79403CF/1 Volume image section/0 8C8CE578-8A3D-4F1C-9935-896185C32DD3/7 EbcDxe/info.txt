@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EbcDxe
+Fixed: No
+Offset: 2CE70h
+File GUID: 13AC6DD0-73D0-11D4-B06B-00AA00BD6DE7
+Type: 07h
+Attributes: 00h
+Full size: 4896h (18582)
+Header size: 18h (24)
+Body size: 487Eh (18558)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

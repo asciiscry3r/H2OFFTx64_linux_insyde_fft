@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SaveSpdToRomDxe
+Fixed: No
+Offset: 1E5A820h
+File GUID: 3DA97FDE-2261-4CFB-A171-74CD5A9AE279
+Type: 07h
+Attributes: 00h
+Full size: A09Ah (41114)
+Header size: 18h (24)
+Body size: A082h (41090)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 10h, valid
+Data checksum: AAh, valid

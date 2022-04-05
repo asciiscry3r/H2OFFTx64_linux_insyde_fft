@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EdidOverrideDxe
+Fixed: No
+Offset: 37C668h
+File GUID: 2818256A-6BDB-4871-993C-95315854012E
+Type: 07h
+Attributes: 00h
+Full size: 2AAEh (10926)
+Header size: 18h (24)
+Body size: 2A96h (10902)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DDh, valid
+Data checksum: AAh, valid

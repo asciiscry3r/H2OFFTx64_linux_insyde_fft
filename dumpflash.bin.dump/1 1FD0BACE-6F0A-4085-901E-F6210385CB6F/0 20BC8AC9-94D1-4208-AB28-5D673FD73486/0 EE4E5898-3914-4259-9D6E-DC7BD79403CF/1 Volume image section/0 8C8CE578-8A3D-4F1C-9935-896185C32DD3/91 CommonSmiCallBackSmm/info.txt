@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: CommonSmiCallBackSmm
+Fixed: No
+Offset: 2F0B08h
+File GUID: 6069277B-246B-45D5-BD6D-81820E10C11F
+Type: 0Ah
+Attributes: 00h
+Full size: 80BAh (32954)
+Header size: 18h (24)
+Body size: 80A2h (32930)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CpuDxe
+Fixed: No
+Offset: 6DE78h
+File GUID: 1A1E4886-9517-440E-9FDE-3BE44CEE2136
+Type: 07h
+Attributes: 00h
+Full size: 10106h (65798)
+Header size: 18h (24)
+Body size: 100EEh (65774)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C0h, valid
+Data checksum: AAh, valid

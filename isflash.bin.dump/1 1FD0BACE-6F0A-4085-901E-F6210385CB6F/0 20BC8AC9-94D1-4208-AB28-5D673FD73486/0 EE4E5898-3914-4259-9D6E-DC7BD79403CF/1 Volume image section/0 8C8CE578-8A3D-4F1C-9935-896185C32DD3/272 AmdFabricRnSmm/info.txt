@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdFabricRnSmm
+Fixed: No
+Offset: 1D6B2A8h
+File GUID: 72B4CDB4-B297-4747-B1BA-5A4839D332AE
+Type: 0Ah
+Attributes: 00h
+Full size: 809Ah (32922)
+Header size: 18h (24)
+Body size: 8082h (32898)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 65h, valid
+Data checksum: AAh, valid

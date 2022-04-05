@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdCpmGpioInitSmm
+Fixed: No
+Offset: 1792330h
+File GUID: CD1C556B-62BF-4EEC-8E73-7731F8E847B2
+Type: 0Ah
+Attributes: 00h
+Full size: 509Eh (20638)
+Header size: 18h (24)
+Body size: 5086h (20614)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 82h, valid
+Data checksum: AAh, valid

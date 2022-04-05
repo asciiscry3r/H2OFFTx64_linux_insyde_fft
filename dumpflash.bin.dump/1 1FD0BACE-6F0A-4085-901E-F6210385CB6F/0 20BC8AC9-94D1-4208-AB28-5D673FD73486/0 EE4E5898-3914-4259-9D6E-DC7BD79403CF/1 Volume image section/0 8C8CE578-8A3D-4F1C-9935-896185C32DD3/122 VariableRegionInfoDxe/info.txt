@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: VariableRegionInfoDxe
+Fixed: No
+Offset: 45A038h
+File GUID: 78D19E50-2B62-407F-9F49-C652A4124002
+Type: 07h
+Attributes: 00h
+Full size: 13D2h (5074)
+Header size: 18h (24)
+Body size: 13BAh (5050)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 99h, valid
+Data checksum: AAh, valid

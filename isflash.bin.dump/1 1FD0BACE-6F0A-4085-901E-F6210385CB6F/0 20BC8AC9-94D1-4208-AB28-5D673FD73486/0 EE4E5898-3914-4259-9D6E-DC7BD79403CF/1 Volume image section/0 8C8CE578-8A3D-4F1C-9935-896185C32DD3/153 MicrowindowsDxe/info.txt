@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MicrowindowsDxe
+Fixed: No
+Offset: 97F5E8h
+File GUID: A622AB73-1E7F-43C8-A465-0D5B267F1A37
+Type: 07h
+Attributes: 10h
+Full size: FAAAh (64170)
+Header size: 18h (24)
+Body size: FA92h (64146)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 50h, valid
+Data checksum: AAh, valid

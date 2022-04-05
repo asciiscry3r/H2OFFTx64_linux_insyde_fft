@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: AspmOverrideDxe
+Fixed: No
+Offset: 61A4E8h
+File GUID: A8913EC1-C00C-4C3A-A245-077C0CA35738
+Type: 0Ch
+Attributes: 00h
+Full size: 608Eh (24718)
+Header size: 18h (24)
+Body size: 6076h (24694)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D4h, valid
+Data checksum: AAh, valid

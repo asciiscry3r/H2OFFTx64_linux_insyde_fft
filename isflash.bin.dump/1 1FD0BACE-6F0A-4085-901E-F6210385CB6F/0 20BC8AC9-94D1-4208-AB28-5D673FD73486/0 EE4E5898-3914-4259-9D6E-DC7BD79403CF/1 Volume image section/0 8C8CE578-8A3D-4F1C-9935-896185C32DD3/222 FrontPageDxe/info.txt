@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FrontPageDxe
+Fixed: No
+Offset: 1A41FF0h
+File GUID: FF189B79-F558-4B6A-8A78-6FCD2B4B0E3C
+Type: 07h
+Attributes: 00h
+Full size: 1DC89Eh (1951902)
+Header size: 18h (24)
+Body size: 1DC886h (1951878)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Bh, valid
+Data checksum: AAh, valid

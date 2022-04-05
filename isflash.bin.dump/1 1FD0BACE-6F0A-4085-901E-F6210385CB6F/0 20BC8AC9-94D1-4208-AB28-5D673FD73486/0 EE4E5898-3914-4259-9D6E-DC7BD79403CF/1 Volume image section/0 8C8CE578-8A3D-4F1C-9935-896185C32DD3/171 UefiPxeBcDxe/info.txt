@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UefiPxeBcDxe
+Fixed: No
+Offset: 174F308h
+File GUID: AE724F8D-62C6-4638-A065-0138F47B6D23
+Type: 07h
+Attributes: 00h
+Full size: 1344Ah (78922)
+Header size: 18h (24)
+Body size: 13432h (78898)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

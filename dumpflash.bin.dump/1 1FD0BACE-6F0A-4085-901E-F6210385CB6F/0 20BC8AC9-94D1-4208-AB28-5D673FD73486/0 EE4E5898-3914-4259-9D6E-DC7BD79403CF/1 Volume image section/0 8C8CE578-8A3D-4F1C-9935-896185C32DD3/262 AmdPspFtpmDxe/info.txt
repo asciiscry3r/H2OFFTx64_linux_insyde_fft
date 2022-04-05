@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdPspFtpmDxe
+Fixed: No
+Offset: 1D22EE8h
+File GUID: 023B3AA9-098F-4027-B83F-B6407DA06569
+Type: 07h
+Attributes: 00h
+Full size: 1BD2h (7122)
+Header size: 18h (24)
+Body size: 1BBAh (7098)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 15h, valid
+Data checksum: AAh, valid

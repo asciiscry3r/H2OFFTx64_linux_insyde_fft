@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IsaBusDxe
+Fixed: No
+Offset: 620578h
+File GUID: 240612B5-A063-11D4-9A3A-0090273FC14D
+Type: 07h
+Attributes: 00h
+Full size: 2B62h (11106)
+Header size: 18h (24)
+Body size: 2B4Ah (11082)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BBh, valid
+Data checksum: AAh, valid

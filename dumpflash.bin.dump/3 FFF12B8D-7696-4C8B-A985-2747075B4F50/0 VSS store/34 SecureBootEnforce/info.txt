@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: SecureBootEnforce
+Fixed: Yes
+Base: EBCDEBh
+Offset: 1DA3h
+Variable GUID: 59D1C24F-50F1-401A-B101-F33E0DAED443
+Full size: 61h (97)
+Header size: 60h (96)
+Body size: 1h (1)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000017h (NonVolatile, BootService, Runtime, AuthWrite)
+Monotonic counter: 1h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

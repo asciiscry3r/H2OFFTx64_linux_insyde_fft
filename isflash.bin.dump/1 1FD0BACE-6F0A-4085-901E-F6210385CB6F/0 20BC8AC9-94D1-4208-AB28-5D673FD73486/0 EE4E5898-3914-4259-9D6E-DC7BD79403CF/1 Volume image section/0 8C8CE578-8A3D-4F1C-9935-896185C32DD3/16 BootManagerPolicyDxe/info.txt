@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootManagerPolicyDxe
+Fixed: No
+Offset: 6B348h
+File GUID: E622443C-284E-4B47-A984-FD66B482DAC0
+Type: 07h
+Attributes: 00h
+Full size: 2046h (8262)
+Header size: 18h (24)
+Body size: 202Eh (8238)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A3h, valid
+Data checksum: AAh, valid

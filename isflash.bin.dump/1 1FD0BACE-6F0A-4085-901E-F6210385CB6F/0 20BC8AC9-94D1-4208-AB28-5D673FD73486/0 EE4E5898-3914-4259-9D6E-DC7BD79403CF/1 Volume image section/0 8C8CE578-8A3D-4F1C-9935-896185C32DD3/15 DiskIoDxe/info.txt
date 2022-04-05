@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DiskIoDxe
+Fixed: No
+Offset: 69140h
+File GUID: 6B38F7B4-AD98-40E9-9093-ACA2B5A253C4
+Type: 07h
+Attributes: 00h
+Full size: 2202h (8706)
+Header size: 18h (24)
+Body size: 21EAh (8682)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Ah, valid
+Data checksum: AAh, valid

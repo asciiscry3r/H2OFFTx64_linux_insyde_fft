@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: fTPMTcg2Smm
+Fixed: No
+Offset: 1E48518h
+File GUID: 2B872B22-6C11-4DFD-994A-96BC13920A43
+Type: 0Ah
+Attributes: 00h
+Full size: 854Dh (34125)
+Header size: 18h (24)
+Body size: 8535h (34101)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 37h, valid
+Data checksum: AAh, valid

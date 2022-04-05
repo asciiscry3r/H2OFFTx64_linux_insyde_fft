@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdPspDxeV2Rn
+Fixed: No
+Offset: 1D24AC0h
+File GUID: E74CA1E2-6E5C-4F07-9831-8367B132DB89
+Type: 07h
+Attributes: 00h
+Full size: ABBAh (43962)
+Header size: 18h (24)
+Body size: ABA2h (43938)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C4h, valid
+Data checksum: AAh, valid

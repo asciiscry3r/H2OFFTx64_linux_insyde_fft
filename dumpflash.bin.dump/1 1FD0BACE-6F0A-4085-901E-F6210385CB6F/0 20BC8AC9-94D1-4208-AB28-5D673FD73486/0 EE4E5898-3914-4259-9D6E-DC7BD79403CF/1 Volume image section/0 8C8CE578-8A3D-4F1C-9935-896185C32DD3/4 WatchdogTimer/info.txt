@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: WatchdogTimer
+Fixed: No
+Offset: 1FB48h
+File GUID: F099D67F-71AE-4C36-B2A3-DCEB0EB2B7D8
+Type: 07h
+Attributes: 00h
+Full size: 972h (2418)
+Header size: 18h (24)
+Body size: 95Ah (2394)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 94h, valid
+Data checksum: AAh, valid

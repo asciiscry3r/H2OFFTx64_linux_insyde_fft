@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: AMD_PBS_SETUP
+Fixed: Yes
+Base: EBB757h
+Offset: 70Fh
+Variable GUID: A339D746-F678-49B3-9FC7-54CE0F9DF226
+Full size: D8h (216)
+Header size: 58h (88)
+Body size: 80h (128)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

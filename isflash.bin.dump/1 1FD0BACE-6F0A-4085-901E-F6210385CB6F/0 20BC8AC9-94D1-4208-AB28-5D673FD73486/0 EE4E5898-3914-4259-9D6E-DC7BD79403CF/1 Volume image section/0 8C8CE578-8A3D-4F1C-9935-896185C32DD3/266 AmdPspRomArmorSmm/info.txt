@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdPspRomArmorSmm
+Fixed: No
+Offset: 1D3D7E8h
+File GUID: 827E45A4-C285-4E45-8BC7-CD8E58D9EE84
+Type: 0Ah
+Attributes: 00h
+Full size: B0B2h (45234)
+Header size: 18h (24)
+Body size: B09Ah (45210)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 81h, valid
+Data checksum: AAh, valid

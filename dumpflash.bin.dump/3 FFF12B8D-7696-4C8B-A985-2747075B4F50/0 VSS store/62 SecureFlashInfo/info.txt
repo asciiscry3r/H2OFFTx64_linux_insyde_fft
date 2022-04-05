@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: SecureFlashInfo
+Fixed: Yes
+Base: EBDFAAh
+Offset: 2F62h
+Variable GUID: 382AF2BB-FFFF-ABCD-AAEE-CCE099338877
+Full size: 6Ah (106)
+Header size: 5Ch (92)
+Body size: Eh (14)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

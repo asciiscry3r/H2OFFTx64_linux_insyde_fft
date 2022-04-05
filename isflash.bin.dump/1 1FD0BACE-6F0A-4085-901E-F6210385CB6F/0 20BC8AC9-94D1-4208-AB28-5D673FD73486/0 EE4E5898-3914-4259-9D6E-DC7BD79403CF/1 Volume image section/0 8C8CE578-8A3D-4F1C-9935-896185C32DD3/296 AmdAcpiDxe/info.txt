@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdAcpiDxe
+Fixed: No
+Offset: 1E2EBE0h
+File GUID: 729B3079-8913-4E12-AFEF-2CA264799469
+Type: 07h
+Attributes: 00h
+Full size: 5476h (21622)
+Header size: 18h (24)
+Body size: 545Eh (21598)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 37h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmSvcCallback
+Fixed: No
+Offset: 1F12EB0h
+File GUID: 00A2B266-B5CF-43A8-8547-CBEBFDEC894C
+Type: 0Ah
+Attributes: 00h
+Full size: 50AEh (20654)
+Header size: 18h (24)
+Body size: 5096h (20630)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Fh, valid
+Data checksum: AAh, valid

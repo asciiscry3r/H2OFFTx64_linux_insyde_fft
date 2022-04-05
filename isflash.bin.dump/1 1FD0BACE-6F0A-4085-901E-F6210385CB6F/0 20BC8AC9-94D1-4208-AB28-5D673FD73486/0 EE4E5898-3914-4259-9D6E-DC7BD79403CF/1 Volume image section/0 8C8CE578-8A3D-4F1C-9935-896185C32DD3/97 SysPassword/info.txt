@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: SysPassword
+Fixed: No
+Offset: 340BB0h
+File GUID: 42FCB444-B881-49D8-A6E9-5A1695FC9F3E
+Type: 0Ch
+Attributes: 00h
+Full size: 70BEh (28862)
+Header size: 18h (24)
+Body size: 70A6h (28838)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

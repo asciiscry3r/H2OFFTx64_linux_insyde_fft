@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosMeasurementDxe
+Fixed: No
+Offset: 30F258h
+File GUID: D27FED59-ABB4-4FED-BEAD-2A878C7E4A7E
+Type: 07h
+Attributes: 00h
+Full size: 16C2h (5826)
+Header size: 18h (24)
+Body size: 16AAh (5802)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 01h, valid
+Data checksum: AAh, valid

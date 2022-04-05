@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: StibpFeatureDxe
+Fixed: No
+Offset: 1CCE7D0h
+File GUID: 2345FB4D-0B26-4A14-AA2E-F7B955154495
+Type: 07h
+Attributes: 00h
+Full size: 2BC6h (11206)
+Header size: 18h (24)
+Body size: 2BAEh (11182)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FEh, valid
+Data checksum: AAh, valid

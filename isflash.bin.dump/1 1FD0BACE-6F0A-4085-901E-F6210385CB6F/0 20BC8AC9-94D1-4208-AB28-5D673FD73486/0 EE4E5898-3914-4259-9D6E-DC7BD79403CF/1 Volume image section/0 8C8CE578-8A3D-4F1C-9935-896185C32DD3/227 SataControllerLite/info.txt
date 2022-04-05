@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SataControllerLite
+Fixed: No
+Offset: 1C2DF28h
+File GUID: 0325B5A1-0937-4A4F-B8AF-EC3F80EE6B35
+Type: 07h
+Attributes: 00h
+Full size: 22BEh (8894)
+Header size: 18h (24)
+Body size: 22A6h (8870)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 22h, valid
+Data checksum: AAh, valid

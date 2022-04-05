@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmModernStandbyFeatureDxe
+Fixed: No
+Offset: 1799798h
+File GUID: 6DA62821-54AF-4836-8EF0-8905EF9BD733
+Type: 07h
+Attributes: 00h
+Full size: DF9h (3577)
+Header size: 18h (24)
+Body size: DE1h (3553)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 76h, valid
+Data checksum: AAh, valid

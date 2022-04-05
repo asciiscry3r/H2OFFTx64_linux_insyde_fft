@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmGpioInitDxe
+Fixed: No
+Offset: 1791480h
+File GUID: 71032D4B-4B91-4EC1-AD53-81827FB43108
+Type: 07h
+Attributes: 00h
+Full size: EAEh (3758)
+Header size: 18h (24)
+Body size: E96h (3734)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F7h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Ps2KeyboardDxe
+Fixed: No
+Offset: 1FF830h
+File GUID: 3DC82376-637B-40A6-A8FC-A565417F2C38
+Type: 07h
+Attributes: 00h
+Full size: 48EEh (18670)
+Header size: 18h (24)
+Body size: 48D6h (18646)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Fh, valid
+Data checksum: AAh, valid

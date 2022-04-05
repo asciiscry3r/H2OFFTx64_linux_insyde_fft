@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DashIoCfgDxe
+Fixed: No
+Offset: 1CDA000h
+File GUID: 54AFED50-5999-4594-9B79-F0AAA09FA32C
+Type: 07h
+Attributes: 00h
+Full size: 1E16h (7702)
+Header size: 18h (24)
+Body size: 1DFEh (7678)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FEh, valid
+Data checksum: AAh, valid

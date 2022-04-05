@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmartTimer
+Fixed: No
+Offset: 1E57BC0h
+File GUID: 45424D0C-E6AF-4AF2-AD99-FA77168742D1
+Type: 07h
+Attributes: 00h
+Full size: 11C2h (4546)
+Header size: 18h (24)
+Body size: 11AAh (4522)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Eh, valid
+Data checksum: AAh, valid

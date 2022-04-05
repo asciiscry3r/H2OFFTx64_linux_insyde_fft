@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ReportStatusCodeRouterRuntimeDxe
+Fixed: No
+Offset: A95C0h
+File GUID: D93CE3D8-A7EB-4730-8C8E-CC466A9ECC3C
+Type: 07h
+Attributes: 00h
+Full size: 708Ah (28810)
+Header size: 18h (24)
+Body size: 7072h (28786)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EAh, valid
+Data checksum: AAh, valid

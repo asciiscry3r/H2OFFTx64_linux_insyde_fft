@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: dbx
+Fixed: Yes
+Base: EBB226h
+Offset: 1DEh
+Variable GUID: D719B2CB-3D3A-4596-A3BC-DAD00E67656F
+Full size: 90h (144)
+Header size: 44h (68)
+Body size: 4Ch (76)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000027h (NonVolatile, BootService, Runtime, TimeBasedAuthWrite)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

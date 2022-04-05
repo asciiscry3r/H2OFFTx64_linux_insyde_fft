@@ -1,0 +1,5 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Offset: 20h
+Full size: 80h (128)

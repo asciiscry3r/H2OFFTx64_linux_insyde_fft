@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CpuMpDxe
+Fixed: No
+Offset: 1C5ACA0h
+File GUID: 40BEAB40-CECE-4909-B133-20A413AE19E9
+Type: 07h
+Attributes: 00h
+Full size: 7EAh (2026)
+Header size: 18h (24)
+Body size: 7D2h (2002)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C6h, valid
+Data checksum: AAh, valid

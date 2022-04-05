@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: B04h
+Type: 15h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Text: NvmeRaidDxe

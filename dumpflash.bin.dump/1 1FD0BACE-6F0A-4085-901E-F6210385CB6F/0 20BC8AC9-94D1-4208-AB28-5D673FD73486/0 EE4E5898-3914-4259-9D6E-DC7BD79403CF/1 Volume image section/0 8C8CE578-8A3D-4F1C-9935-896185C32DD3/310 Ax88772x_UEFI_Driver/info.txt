@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Ax88772x_UEFI_Driver
+Fixed: No
+Offset: 1E77D28h
+File GUID: 10902A25-0FFC-4D53-845D-635472D27184
+Type: 07h
+Attributes: 00h
+Full size: 6B02h (27394)
+Header size: 18h (24)
+Body size: 6AEAh (27370)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

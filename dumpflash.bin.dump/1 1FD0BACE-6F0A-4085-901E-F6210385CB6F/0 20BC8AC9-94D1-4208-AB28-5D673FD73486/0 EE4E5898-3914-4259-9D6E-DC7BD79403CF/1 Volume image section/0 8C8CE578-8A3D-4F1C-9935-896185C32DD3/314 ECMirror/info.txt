@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ECMirror
+Fixed: No
+Offset: 1E9A8F0h
+File GUID: 5F876E7C-0D44-4850-8F2A-424D15950CA1
+Type: 07h
+Attributes: 00h
+Full size: AFAh (2810)
+Header size: 18h (24)
+Body size: AE2h (2786)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Dh, valid
+Data checksum: AAh, valid

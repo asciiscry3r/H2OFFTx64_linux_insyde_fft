@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: UsbCoreDxe
+Fixed: No
+Offset: 256F80h
+File GUID: 31FD7EAF-80A7-435E-8E0A-3F185F8667DD
+Type: 0Ch
+Attributes: 00h
+Full size: D0F2h (53490)
+Header size: 18h (24)
+Body size: D0DAh (53466)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F7h, valid
+Data checksum: AAh, valid

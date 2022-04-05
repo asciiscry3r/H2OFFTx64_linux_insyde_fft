@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Tcg2Dxe
+Fixed: No
+Offset: 12C3E0h
+File GUID: FDFF263D-5F68-4591-87BA-B768F445A9AF
+Type: 07h
+Attributes: 00h
+Full size: C4DEh (50398)
+Header size: 18h (24)
+Body size: C4C6h (50374)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Ah, valid
+Data checksum: AAh, valid

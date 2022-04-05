@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: I2cTouchPanelDxe
+Fixed: No
+Offset: 5FF610h
+File GUID: 03068297-DDA5-4CCD-BBFA-7E09AE025177
+Type: 07h
+Attributes: 00h
+Full size: 3492h (13458)
+Header size: 18h (24)
+Body size: 347Ah (13434)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C2h, valid
+Data checksum: AAh, valid

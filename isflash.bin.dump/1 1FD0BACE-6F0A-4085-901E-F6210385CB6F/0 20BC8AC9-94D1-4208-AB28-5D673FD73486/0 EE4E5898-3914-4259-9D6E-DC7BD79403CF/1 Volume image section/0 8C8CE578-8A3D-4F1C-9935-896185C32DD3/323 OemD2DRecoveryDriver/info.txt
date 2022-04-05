@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemD2DRecoveryDriver
+Fixed: No
+Offset: 1EC0318h
+File GUID: CC243581-112F-441C-815D-6D8DB3659619
+Type: 07h
+Attributes: 00h
+Full size: 1262h (4706)
+Header size: 18h (24)
+Body size: 124Ah (4682)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A0h, valid
+Data checksum: AAh, valid

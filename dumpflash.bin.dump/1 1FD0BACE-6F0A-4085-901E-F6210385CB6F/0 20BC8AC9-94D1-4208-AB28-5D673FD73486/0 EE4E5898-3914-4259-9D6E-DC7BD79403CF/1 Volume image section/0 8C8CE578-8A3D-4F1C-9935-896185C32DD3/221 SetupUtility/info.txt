@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SetupUtility
+Fixed: No
+Offset: 17C5E10h
+File GUID: FE3542FE-C1D3-4EF8-657C-8048606FF670
+Type: 07h
+Attributes: 00h
+Full size: 27C1DEh (2605534)
+Header size: 18h (24)
+Body size: 27C1C6h (2605510)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 08h, valid
+Data checksum: AAh, valid

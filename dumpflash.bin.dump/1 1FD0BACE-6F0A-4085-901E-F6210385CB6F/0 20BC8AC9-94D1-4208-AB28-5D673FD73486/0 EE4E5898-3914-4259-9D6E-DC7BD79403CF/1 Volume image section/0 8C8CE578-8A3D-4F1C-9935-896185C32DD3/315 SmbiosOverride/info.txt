@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosOverride
+Fixed: No
+Offset: 1E9B3F0h
+File GUID: 68927537-DB9F-41D3-AC47-98B823A9F7D7
+Type: 07h
+Attributes: 00h
+Full size: 8CAh (2250)
+Header size: 18h (24)
+Body size: 8B2h (2226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 16h, valid
+Data checksum: AAh, valid

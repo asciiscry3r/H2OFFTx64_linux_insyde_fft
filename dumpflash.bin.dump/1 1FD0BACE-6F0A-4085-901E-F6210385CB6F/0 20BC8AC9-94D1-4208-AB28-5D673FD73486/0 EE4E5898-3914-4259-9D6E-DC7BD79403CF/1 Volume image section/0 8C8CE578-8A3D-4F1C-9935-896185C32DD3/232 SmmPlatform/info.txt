@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmPlatform
+Fixed: No
+Offset: 1C428C0h
+File GUID: E4D932F4-31C9-4075-8FA3-4030F7EB767A
+Type: 0Ah
+Attributes: 00h
+Full size: 80CAh (32970)
+Header size: 18h (24)
+Body size: 80B2h (32946)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A6h, valid
+Data checksum: AAh, valid

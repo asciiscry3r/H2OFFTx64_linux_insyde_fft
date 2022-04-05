@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CbsBaseDxeRN
+Fixed: No
+Offset: 1F4F440h
+File GUID: 73E8D659-D2A2-4720-8316-B9BAD21E5A29
+Type: 07h
+Attributes: 00h
+Full size: 18E2h (6370)
+Header size: 18h (24)
+Body size: 18CAh (6346)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: DellCommandData
+Fixed: Yes
+Base: EBDF45h
+Offset: 2EFDh
+Variable GUID: 382AF2BB-FFFF-ABCD-AAEE-CCE099338877
+Full size: 65h (101)
+Header size: 5Ch (92)
+Body size: 9h (9)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

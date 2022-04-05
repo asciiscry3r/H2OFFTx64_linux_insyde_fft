@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PspFactoryReset
+Fixed: No
+Offset: 1E50A68h
+File GUID: F7119829-314A-4E7F-8853-44AA79A7CB43
+Type: 07h
+Attributes: 00h
+Full size: 7156h (29014)
+Header size: 18h (24)
+Body size: 713Eh (28990)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: FchSHSataD3ColdSmm
+Fixed: No
+Offset: 1E015E8h
+File GUID: 347B85F0-E917-4E74-85BA-F494071EEE52
+Type: 0Ah
+Attributes: 00h
+Full size: A0DAh (41178)
+Header size: 18h (24)
+Body size: A0C2h (41154)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Ah, valid
+Data checksum: AAh, valid

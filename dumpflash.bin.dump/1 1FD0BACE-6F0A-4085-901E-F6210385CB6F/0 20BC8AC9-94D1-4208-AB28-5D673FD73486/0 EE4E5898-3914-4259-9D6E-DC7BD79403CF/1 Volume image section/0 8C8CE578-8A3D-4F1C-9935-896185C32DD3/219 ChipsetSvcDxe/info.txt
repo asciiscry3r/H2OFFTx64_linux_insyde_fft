@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ChipsetSvcDxe
+Fixed: No
+Offset: 17B8B80h
+File GUID: 9B0FF2C0-E245-11E1-8EFF-D0DF9A35C106
+Type: 07h
+Attributes: 00h
+Full size: 61F6h (25078)
+Header size: 18h (24)
+Body size: 61DEh (25054)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

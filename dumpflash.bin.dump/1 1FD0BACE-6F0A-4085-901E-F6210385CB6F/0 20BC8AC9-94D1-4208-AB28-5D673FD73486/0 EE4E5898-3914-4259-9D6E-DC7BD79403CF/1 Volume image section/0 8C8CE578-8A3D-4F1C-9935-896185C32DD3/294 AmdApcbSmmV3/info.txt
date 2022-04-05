@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdApcbSmmV3
+Fixed: No
+Offset: 1E177C0h
+File GUID: B1BAC051-D5C2-4AC1-AC7D-9D2F518A1E7B
+Type: 0Ah
+Attributes: 00h
+Full size: 130DEh (78046)
+Header size: 18h (24)
+Body size: 130C6h (78022)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 60h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TpmCapsuleDxe
+Fixed: No
+Offset: 10B8E8h
+File GUID: 3D64F384-CA32-42C6-A629-42A494B2CB4A
+Type: 07h
+Attributes: 00h
+Full size: 5EE6h (24294)
+Header size: 18h (24)
+Body size: 5ECEh (24270)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 89h, valid
+Data checksum: AAh, valid

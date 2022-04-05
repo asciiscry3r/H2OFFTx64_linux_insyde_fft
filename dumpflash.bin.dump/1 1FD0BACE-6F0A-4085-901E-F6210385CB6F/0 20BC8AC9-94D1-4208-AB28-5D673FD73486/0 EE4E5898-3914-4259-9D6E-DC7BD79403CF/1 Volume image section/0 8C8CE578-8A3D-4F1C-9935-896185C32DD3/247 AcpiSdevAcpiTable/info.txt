@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcpiSdevAcpiTable
+Fixed: No
+Offset: 1CE6398h
+File GUID: B597FB4A-3527-4982-A4E4-8E212C3CCA9C
+Type: 07h
+Attributes: 00h
+Full size: 1DFAh (7674)
+Header size: 18h (24)
+Body size: 1DE2h (7650)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

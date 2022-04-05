@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SecureFlashEspFlagSmm
+Fixed: No
+Offset: 1CE8380h
+File GUID: 53AD0657-8A74-4358-9F32-04AB4B5A0B92
+Type: 0Ah
+Attributes: 00h
+Full size: 6096h (24726)
+Header size: 18h (24)
+Body size: 607Eh (24702)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 48h, valid
+Data checksum: AAh, valid

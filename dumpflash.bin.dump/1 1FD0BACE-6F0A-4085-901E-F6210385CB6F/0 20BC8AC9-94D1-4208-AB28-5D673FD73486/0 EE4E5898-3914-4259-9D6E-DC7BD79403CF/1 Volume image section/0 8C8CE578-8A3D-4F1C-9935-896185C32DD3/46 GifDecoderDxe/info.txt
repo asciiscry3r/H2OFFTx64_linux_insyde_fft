@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: GifDecoderDxe
+Fixed: No
+Offset: 152548h
+File GUID: 1353DE63-B74A-4BEF-80FD-2C5CFA83040B
+Type: 07h
+Attributes: 00h
+Full size: 2162h (8546)
+Header size: 18h (24)
+Body size: 214Ah (8522)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 03h, valid
+Data checksum: AAh, valid

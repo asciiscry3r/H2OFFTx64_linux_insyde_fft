@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FchShastaSsdt
+Fixed: No
+Offset: 1DD2A48h
+File GUID: 4BEB96B4-C069-4C49-845F-1C1CC68CD8D6
+Type: 07h
+Attributes: 00h
+Full size: B6Ah (2922)
+Header size: 18h (24)
+Body size: B52h (2898)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Bh, valid
+Data checksum: AAh, valid

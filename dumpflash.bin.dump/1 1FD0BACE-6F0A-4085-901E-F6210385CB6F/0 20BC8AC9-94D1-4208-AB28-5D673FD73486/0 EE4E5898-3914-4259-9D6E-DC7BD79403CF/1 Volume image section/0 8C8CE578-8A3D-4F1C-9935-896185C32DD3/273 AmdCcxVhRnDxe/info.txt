@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCcxVhRnDxe
+Fixed: No
+Offset: 1D73348h
+File GUID: E59EA6B0-B05B-4B22-8F3A-242DCBE904A2
+Type: 07h
+Attributes: 00h
+Full size: 104D2h (66770)
+Header size: 18h (24)
+Body size: 104BAh (66746)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Dh, valid
+Data checksum: AAh, valid

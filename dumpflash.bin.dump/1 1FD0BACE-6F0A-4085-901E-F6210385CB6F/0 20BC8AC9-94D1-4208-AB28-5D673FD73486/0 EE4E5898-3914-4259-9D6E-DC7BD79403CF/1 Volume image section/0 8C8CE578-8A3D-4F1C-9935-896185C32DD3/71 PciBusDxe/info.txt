@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PciBusDxe
+Fixed: No
+Offset: 221DE8h
+File GUID: 93B80004-9FB3-11D4-9A3A-0090273FC14D
+Type: 07h
+Attributes: 00h
+Full size: 161E2h (90594)
+Header size: 18h (24)
+Body size: 161CAh (90570)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

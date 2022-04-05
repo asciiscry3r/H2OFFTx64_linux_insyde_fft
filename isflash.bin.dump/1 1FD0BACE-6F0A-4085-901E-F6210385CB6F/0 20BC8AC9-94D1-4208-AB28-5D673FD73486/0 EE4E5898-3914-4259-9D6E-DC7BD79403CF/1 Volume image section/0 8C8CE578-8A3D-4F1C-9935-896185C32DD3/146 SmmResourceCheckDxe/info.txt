@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: SmmResourceCheckDxe
+Fixed: No
+Offset: 624800h
+File GUID: E503CA98-B63E-4592-9BCD-5A4452355134
+Type: 0Ch
+Attributes: 00h
+Full size: 70A6h (28838)
+Header size: 18h (24)
+Body size: 708Eh (28814)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B7h, valid
+Data checksum: AAh, valid

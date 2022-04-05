@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NvmeRaidDxe
+Fixed: No
+Offset: 17B8050h
+File GUID: 8C8A2E6C-A56C-4A6C-8C9B-B4B6BB4208AE
+Type: 07h
+Attributes: 00h
+Full size: B2Eh (2862)
+Header size: 18h (24)
+Body size: B16h (2838)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 05h, valid
+Data checksum: AAh, valid

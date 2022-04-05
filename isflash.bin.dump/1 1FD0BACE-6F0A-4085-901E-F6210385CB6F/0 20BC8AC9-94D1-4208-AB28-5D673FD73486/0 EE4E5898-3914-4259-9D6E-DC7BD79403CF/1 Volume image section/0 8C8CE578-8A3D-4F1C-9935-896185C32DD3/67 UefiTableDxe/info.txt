@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UefiTableDxe
+Fixed: No
+Offset: 1FE568h
+File GUID: B147CD7E-17D3-4D66-AB39-472B1DA659C1
+Type: 07h
+Attributes: 00h
+Full size: 12C2h (4802)
+Header size: 18h (24)
+Body size: 12AAh (4778)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 12h, valid
+Data checksum: AAh, valid

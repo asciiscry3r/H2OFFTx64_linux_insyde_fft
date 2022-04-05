@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdIdsDebugPrintDxe
+Fixed: No
+Offset: 1D1BCC0h
+File GUID: ABFE2830-855B-4A98-94D6-EEB23D1EBF45
+Type: 07h
+Attributes: 00h
+Full size: 2FEEh (12270)
+Header size: 18h (24)
+Body size: 2FD6h (12246)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B0h, valid
+Data checksum: AAh, valid

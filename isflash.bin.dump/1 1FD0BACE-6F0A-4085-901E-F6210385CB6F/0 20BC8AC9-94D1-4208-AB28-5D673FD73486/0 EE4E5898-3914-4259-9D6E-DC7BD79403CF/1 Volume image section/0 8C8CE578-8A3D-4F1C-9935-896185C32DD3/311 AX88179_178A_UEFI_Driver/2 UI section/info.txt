@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: A024h
+Type: 15h
+Full size: 36h (54)
+Header size: 4h (4)
+Body size: 32h (50)
+Text: AX88179_178A_UEFI_Driver

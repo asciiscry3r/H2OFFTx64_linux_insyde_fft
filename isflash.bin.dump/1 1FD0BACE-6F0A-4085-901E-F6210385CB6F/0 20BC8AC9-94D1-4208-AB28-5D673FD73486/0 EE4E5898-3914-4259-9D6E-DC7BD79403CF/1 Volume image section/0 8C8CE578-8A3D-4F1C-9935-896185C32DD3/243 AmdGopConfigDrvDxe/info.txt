@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdGopConfigDrvDxe
+Fixed: No
+Offset: 1CD1398h
+File GUID: 81E68098-6F95-4CE8-AA8F-A7FFC89E0B9D
+Type: 07h
+Attributes: 00h
+Full size: 8C66h (35942)
+Header size: 18h (24)
+Body size: 8C4Eh (35918)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 63h, valid
+Data checksum: AAh, valid

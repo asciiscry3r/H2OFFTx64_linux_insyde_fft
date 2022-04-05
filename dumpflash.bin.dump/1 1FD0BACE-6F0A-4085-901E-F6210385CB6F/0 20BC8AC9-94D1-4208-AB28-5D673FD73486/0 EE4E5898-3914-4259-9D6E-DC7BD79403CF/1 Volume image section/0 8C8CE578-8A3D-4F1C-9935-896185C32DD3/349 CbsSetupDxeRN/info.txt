@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CbsSetupDxeRN
+Fixed: No
+Offset: 1F35100h
+File GUID: F27F4D0C-70E4-413B-A537-FF39A2199AA5
+Type: 07h
+Attributes: 00h
+Full size: 1A33Eh (107326)
+Header size: 18h (24)
+Body size: 1A326h (107302)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Fh, valid
+Data checksum: AAh, valid

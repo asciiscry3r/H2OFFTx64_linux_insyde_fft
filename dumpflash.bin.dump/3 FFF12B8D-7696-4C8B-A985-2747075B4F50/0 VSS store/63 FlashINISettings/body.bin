@@ -1,0 +1,223 @@
+[
+
+[CommonFlash]
+SwitchString=
+ErrorMsg00=No error!
+ErrorMsg01=AC detect error!
+ErrorMsg02=DC detect error!
+ErrorMsg03=DC gas gauge under xx%!
+ErrorMsg04=BIOS version compare error!
+ErrorMsg05=Model name compare error!
+ErrorMsg10=Not support this version of Flash Common Interface!
+ErrorMsg11=Show BIOS version string length more than xx bytes.
+ErrorMsg12=Show model name string length more than xx bytes.
+
+[PermitFlashConditionalData]
+PFCDFunctionEnable=0
+Conditionalcount=3
+Conditionaldata1=1,w,"0x0003","The BIOS image does not support the current hardware configuration.\nFlash update is aborted."
+Conditionaldata2=2,w,"0x20DD","The BIOS image does not support the current hardware configuration.\nFlash update is aborted."
+Conditionaldata3=2,w,"0x20DE","The BIOS image does not support the current hardware configuration.\nFlash update is aborted."
+
+[UI]
+Confirm=1
+Silent=0
+SilentWithDialog=2
+DisplayID=1
+InsydeInfo=1
+VersionInfo=1
+GroupInfo=1
+ConfirmInfo=0
+ConfirmInfoRDate=0
+OnFlashingBeep=0
+OnFlashingBeepDelayTime=800
+DisableMouseAndKeyboardInput=1
+BeforeRunToolDelayTime=0
+ProgramStartToWrongMessageBox=0
+GetFDFileButton=0
+DelayBeforeFlash=0
+ConfirmDialogCustomizeMessage=
+ShowCustomizeMessageOnConfirmDialogOnly=0
+ShowUpdateROMAddress=0
+Elapse=0
+DisableAccessRightWarningMessage=0
+PassUpdateProgressToBios=0
+DisableAccessRightCheck=0
+ShowEcUpdateProgress=1
+ExtEcUpdateErrorMessage=""
+NotShowIconOnMessageBox=0
+
+[AC_Adapter]
+Flag=1
+BatteryCheck=1
+BatteryBound=20
+LauncherAcWarning=messagestringA02
+SecurityAcWarning=messagestringA02
+AcNotConnectError=messagestringA05
+DcNotConnectError=messagestringA06
+DcNotEnoughError=messagestringA07
+
+[Platform_Check]
+Flag=1
+NotTargetPlatformErrorMessage="This BIOS is not for your Notebook PC."
+PlatformName1=AA
+PlatformName2=BB
+PlatformName3=
+PlatformName4=
+PlatformName5=
+PlatformName6=
+PlatformName7=
+PlatformName8=
+PlatformName9=
+PlatformName10=
+PlatformName11=
+PlatformName12=
+PlatformName13=
+PlatformName14=
+PlatformName15=
+PlatformName16=
+PlatformName17=
+PlatformName18=
+PlatformName19=
+PlatformName20=
+
+[PlatformVersion]
+Flag=0
+Version1=
+Version2=
+Version3=
+Version4=
+Version5=
+Version6=
+Version7=
+Version8=
+Version9=
+Version10=
+Version11=
+Version12=
+Version13=
+Version14=
+Version15=
+Version16=
+Version17=
+Version18=
+Version19=
+Version20=
+
+[Bios_Version_Check]
+Flag=0
+SameVersionErrorMessage="The version of ROM file is the same as that of BIOS."
+OlderVersionErrorMessage="The version of ROM file is not newer than that of BIOS."
+CheckByBios=0
+CheckByBiosErrorMessage="This BIOS file is not allow to flash. The flash process will be terminated."
+
+[BIOSVersionFormat]
+BIOSVFEnable=0
+VersionFormat=TXXXXXXX.N.NN.NN
+
+[FlashComplete]
+Action=2,0
+Dialog=0
+Counter=15
+ActionOverride=0
+Pause=0
+PauseWarning=messagestringA03
+
+[ForceFlash]
+ALL=1
+BB_PEI=0
+CPU_Microcode=0
+Variable=0
+DXE=0
+EC=0
+Password=0
+OEM_NVS=0
+Logo=0
+Type#09=0
+Type#08=0
+UseBvdtRomMap=0
+
+[Region]
+BIOS=0
+GbE=0
+ME=0
+EC=0
+DESC=0
+Platform_Data=0
+
+[UpdateEC]
+Flag=0
+EC_Dialog=0
+BIOS_Only=0
+EC_Only=0
+EC_Path=
+EC_Compare=0
+EC_Verify=0
+EC_VerifyErrorRetry=3
+EC_BlockSize=128
+EC_DockWarning=messagestringA04
+
+[UpdateDeviceFirmware]
+VerifyErrorRetry=1
+
+[Log_file]
+Flag=0
+FileName=H2OFFT.log
+CMOS_Flag=1
+CMOS_INDEX_PORT=70
+CMOS_DATA_PORT=71
+CMOS_OFFSET=68,69
+
+[MessageStringTable]
+messagestring1="Warning message 1"
+messagestringA00="It only supports to flash secure BIOS on current platform.\r\nThe image to be updated is not a secure BIOS.\r\n"
+messagestringA01="Not allow to flash secure BIOS on current platform.\r\n"
+messagestringA02="Please do not remove the AC power!"
+messagestringA03="Press any key to continue..."
+messagestringA04="Get EC part information fail."
+messagestringA05="Insyde H2OFFT cannot run on battery power. Please plug in AC power and try again."
+messagestringA06="Please insert system battery."
+messagestringA07="Battery is too low (%d < %d). Please charge your battery to %d%%."
+
+[FactoryCopy]
+Restore=0
+
+
+[CapsuleAudit]
+Flag=0
+QAKey=
+OemKey=
+
+[SecureUpdate]
+viaESP=1
+ViaESPCopyFileWaitingTime=0
+FreeEspSpaceWhenNeed=1
+DeviceOrder=eMMC, NVMe, SATA, ATAPI, USB
+PhysicalMemoryAllocateFailRetryTimes=3
+PhysicalMemoryAllocateFailRetryDelay=500
+
+[AutoWakeup]
+Flag=0
+Interval=120
+
+[PassToBios]
+ClearTXE=0
+
+[PreFlash]
+EraseDataType=
+
+[ParamForBiosReference]
+Param1=
+Param2=
+Param3=
+Param4=
+Param5=
+Param6=
+Param7=
+Param8=
+Param9=
+Param10=
+[SecurityFlashFactoryUpdate]
+UpdateNvStorage=1
+
+UpdateFactoryCopy=1

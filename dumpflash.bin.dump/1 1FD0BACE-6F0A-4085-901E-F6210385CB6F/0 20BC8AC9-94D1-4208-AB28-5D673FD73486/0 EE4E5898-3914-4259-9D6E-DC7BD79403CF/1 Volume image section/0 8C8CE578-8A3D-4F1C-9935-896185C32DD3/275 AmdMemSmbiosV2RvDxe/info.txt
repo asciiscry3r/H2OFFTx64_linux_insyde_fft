@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdMemSmbiosV2RvDxe
+Fixed: No
+Offset: 1D8B8F0h
+File GUID: EA7BF2CC-F154-4CC4-A725-6382C701FBFE
+Type: 07h
+Attributes: 00h
+Full size: 127Eh (4734)
+Header size: 18h (24)
+Body size: 1266h (4710)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Fh, valid
+Data checksum: AAh, valid

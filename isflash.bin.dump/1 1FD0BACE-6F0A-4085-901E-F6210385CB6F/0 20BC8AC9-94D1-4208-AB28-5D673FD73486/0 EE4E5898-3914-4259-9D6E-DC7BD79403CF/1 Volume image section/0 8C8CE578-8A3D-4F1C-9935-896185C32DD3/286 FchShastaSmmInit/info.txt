@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: FchShastaSmmInit
+Fixed: No
+Offset: 1DD3978h
+File GUID: 17AAF4D7-0E18-4B99-87C6-94C8B5F25FB4
+Type: 0Ah
+Attributes: 00h
+Full size: 10142h (65858)
+Header size: 18h (24)
+Body size: 1012Ah (65834)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B9h, valid
+Data checksum: AAh, valid

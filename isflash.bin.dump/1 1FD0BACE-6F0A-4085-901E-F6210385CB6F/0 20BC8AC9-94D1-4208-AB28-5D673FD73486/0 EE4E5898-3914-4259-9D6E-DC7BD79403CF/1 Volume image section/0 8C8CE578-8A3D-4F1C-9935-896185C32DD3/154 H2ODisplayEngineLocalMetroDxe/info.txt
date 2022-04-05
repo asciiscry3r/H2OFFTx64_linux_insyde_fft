@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: H2ODisplayEngineLocalMetroDxe
+Fixed: No
+Offset: 98F098h
+File GUID: 7B3F16BE-79CD-4A78-A27E-B329B1DF500D
+Type: 07h
+Attributes: 00h
+Full size: D4B3EAh (13939690)
+Header size: 18h (24)
+Body size: D4B3D2h (13939666)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 09h, valid
+Data checksum: AAh, valid

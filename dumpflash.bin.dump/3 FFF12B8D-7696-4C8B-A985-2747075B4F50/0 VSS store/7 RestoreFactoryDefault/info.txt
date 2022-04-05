@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: RestoreFactoryDefault
+Fixed: Yes
+Base: EBB317h
+Offset: 2CFh
+Variable GUID: 59D1C24F-50F1-401A-B101-F33E0DAED443
+Full size: 69h (105)
+Header size: 68h (104)
+Body size: 1h (1)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000017h (NonVolatile, BootService, Runtime, AuthWrite)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

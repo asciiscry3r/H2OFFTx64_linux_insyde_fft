@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: InstallWsmtDxe
+Fixed: No
+Offset: 1FD9B0h
+File GUID: F56E697B-3EF8-471D-3EF8-6B6636A6F2F8
+Type: 07h
+Attributes: 00h
+Full size: BB6h (2998)
+Header size: 18h (24)
+Body size: B9Eh (2974)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

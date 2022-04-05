@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TrEEConfigDxe
+Fixed: No
+Offset: 109118h
+File GUID: 8376BDCA-5E03-4735-951A-4A74141E5886
+Type: 07h
+Attributes: 00h
+Full size: 27CAh (10186)
+Header size: 18h (24)
+Body size: 27B2h (10162)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Eh, valid
+Data checksum: AAh, valid

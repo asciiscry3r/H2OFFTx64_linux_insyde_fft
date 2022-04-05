@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdHstiV2
+Fixed: No
+Offset: 1D549E8h
+File GUID: 5466B9AA-EE2F-4FDB-84A3-A330BE1301FF
+Type: 07h
+Attributes: 10h
+Full size: 217Eh (8574)
+Header size: 18h (24)
+Body size: 2166h (8550)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Bh, valid
+Data checksum: AAh, valid

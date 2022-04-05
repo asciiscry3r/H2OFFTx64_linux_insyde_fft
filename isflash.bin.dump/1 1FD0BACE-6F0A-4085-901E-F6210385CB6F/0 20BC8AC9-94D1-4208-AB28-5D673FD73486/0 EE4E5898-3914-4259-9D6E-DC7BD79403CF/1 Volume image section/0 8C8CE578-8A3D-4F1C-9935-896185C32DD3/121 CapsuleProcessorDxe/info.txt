@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CapsuleProcessorDxe
+Fixed: No
+Offset: 44DC30h
+File GUID: 043DF38F-32E1-4893-911F-37A7FE91F723
+Type: 07h
+Attributes: 00h
+Full size: C402h (50178)
+Header size: 18h (24)
+Body size: C3EAh (50154)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Bh, valid
+Data checksum: AAh, valid

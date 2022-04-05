@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: UsbMouseDxe
+Fixed: No
+Offset: 28D080h
+File GUID: 2D2E62AA-9ECF-43B7-8219-94E7FC713DFE
+Type: 0Ch
+Attributes: 00h
+Full size: 9096h (37014)
+Header size: 18h (24)
+Body size: 907Eh (36990)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 42h, valid
+Data checksum: AAh, valid

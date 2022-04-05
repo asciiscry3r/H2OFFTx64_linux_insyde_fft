@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UnicodeCollationDxe
+Fixed: No
+Offset: 363B00h
+File GUID: B273CC44-E62A-41DC-9CAD-BDB4235459D8
+Type: 07h
+Attributes: 00h
+Full size: 2C16h (11286)
+Header size: 18h (24)
+Body size: 2BFEh (11262)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F3h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ConSplitterDxe
+Fixed: No
+Offset: 369948h
+File GUID: 408EDCEC-CF6D-477C-A5A8-B4844E3DE281
+Type: 07h
+Attributes: 00h
+Full size: 96CEh (38606)
+Header size: 18h (24)
+Body size: 96B6h (38582)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,17 @@
+Type: Volume
+Subtype: NVRAM
+Fixed: Yes
+Base: F07008h
+Offset: 8h
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+Signature: _FVH
+FileSystem GUID: FFF12B8D-7696-4C8B-A985-2747075B4F50
+Full size: 3FF8h (16376)
+Header size: 48h (72)
+Body size: 3FB0h (16304)
+Revision: 1
+Attributes: FFFF8EFFh
+Erase polarity: 1
+Checksum: 69EBh, valid

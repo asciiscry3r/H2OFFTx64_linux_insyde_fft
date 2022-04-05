@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmUcsiDxe
+Fixed: No
+Offset: 1798650h
+File GUID: 48569430-485F-4ACC-A184-B35D11CB7560
+Type: 07h
+Attributes: 00h
+Full size: 8C6h (2246)
+Header size: 18h (24)
+Body size: 8AEh (2222)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 26h, valid
+Data checksum: AAh, valid

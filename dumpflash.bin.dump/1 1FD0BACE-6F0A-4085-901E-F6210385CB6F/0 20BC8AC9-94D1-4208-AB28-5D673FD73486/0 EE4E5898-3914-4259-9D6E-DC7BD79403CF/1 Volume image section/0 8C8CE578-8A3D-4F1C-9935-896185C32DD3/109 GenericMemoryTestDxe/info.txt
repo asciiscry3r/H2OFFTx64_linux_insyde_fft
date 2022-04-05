@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: GenericMemoryTestDxe
+Fixed: No
+Offset: 383388h
+File GUID: EEC9BC9A-2907-4D59-8B86-D1EC67DE62E1
+Type: 07h
+Attributes: 00h
+Full size: 2F32h (12082)
+Header size: 18h (24)
+Body size: 2F1Ah (12058)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Fh, valid
+Data checksum: AAh, valid

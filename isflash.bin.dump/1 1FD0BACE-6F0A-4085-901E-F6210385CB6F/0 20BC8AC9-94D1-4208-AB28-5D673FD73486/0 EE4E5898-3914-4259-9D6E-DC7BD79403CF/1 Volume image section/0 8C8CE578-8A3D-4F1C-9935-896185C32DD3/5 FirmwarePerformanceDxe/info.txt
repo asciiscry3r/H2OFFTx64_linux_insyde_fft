@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FirmwarePerformanceDxe
+Fixed: No
+Offset: 204C0h
+File GUID: 00160F8D-2B35-4DF2-BBE0-B272A8D631F0
+Type: 07h
+Attributes: 00h
+Full size: 1F06h (7942)
+Header size: 18h (24)
+Body size: 1EEEh (7918)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

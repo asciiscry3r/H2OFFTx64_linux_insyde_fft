@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CpuS3DataDxe
+Fixed: No
+Offset: 99DD0h
+File GUID: 4D2E57EE-0E3F-44DD-93C4-D3B57E96945D
+Type: 07h
+Attributes: 00h
+Full size: ED2h (3794)
+Header size: 18h (24)
+Body size: EBAh (3770)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 07h, valid
+Data checksum: AAh, valid

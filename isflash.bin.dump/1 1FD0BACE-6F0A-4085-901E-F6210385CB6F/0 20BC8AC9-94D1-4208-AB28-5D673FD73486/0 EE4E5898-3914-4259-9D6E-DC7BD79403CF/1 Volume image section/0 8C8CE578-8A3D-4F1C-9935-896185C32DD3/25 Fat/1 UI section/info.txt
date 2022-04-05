@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 6F7Ch
+Type: 15h
+Full size: Ch (12)
+Header size: 4h (4)
+Body size: 8h (8)
+Text: Fat

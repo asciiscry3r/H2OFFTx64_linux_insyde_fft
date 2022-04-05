@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: MemCeil.
+Fixed: Yes
+Base: EBD134h
+Offset: 20ECh
+Variable GUID: AD22518B-450A-4857-96C3-D1E22F206129
+Full size: 56h (86)
+Header size: 4Eh (78)
+Body size: 8h (8)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdNbioIOMMUDxe
+Fixed: No
+Offset: 1DBBB68h
+File GUID: 828C017B-BA8E-40E6-BDA4-45B6F9F6A8CD
+Type: 07h
+Attributes: 00h
+Full size: C06Eh (49262)
+Header size: 18h (24)
+Body size: C056h (49238)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 13h, valid
+Data checksum: AAh, valid

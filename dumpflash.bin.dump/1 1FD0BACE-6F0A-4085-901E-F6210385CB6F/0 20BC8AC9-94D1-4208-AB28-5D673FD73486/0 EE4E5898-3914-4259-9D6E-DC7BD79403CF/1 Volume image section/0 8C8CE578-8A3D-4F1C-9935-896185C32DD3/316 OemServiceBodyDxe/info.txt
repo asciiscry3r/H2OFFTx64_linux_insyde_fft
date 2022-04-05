@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemServiceBodyDxe
+Fixed: No
+Offset: 1E9BCC0h
+File GUID: 2DE2AE4B-7489-4D91-9B63-9B12CC564540
+Type: 07h
+Attributes: 00h
+Full size: A9C2h (43458)
+Header size: 18h (24)
+Body size: A9AAh (43434)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 59h, valid
+Data checksum: AAh, valid

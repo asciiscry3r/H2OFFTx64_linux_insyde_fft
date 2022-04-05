@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmModernStandbyInitDxe
+Fixed: No
+Offset: 17B4DB8h
+File GUID: DACF6769-C3D5-4EFF-A181-FA0988E1D9B4
+Type: 07h
+Attributes: 00h
+Full size: 3292h (12946)
+Header size: 18h (24)
+Body size: 327Ah (12922)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

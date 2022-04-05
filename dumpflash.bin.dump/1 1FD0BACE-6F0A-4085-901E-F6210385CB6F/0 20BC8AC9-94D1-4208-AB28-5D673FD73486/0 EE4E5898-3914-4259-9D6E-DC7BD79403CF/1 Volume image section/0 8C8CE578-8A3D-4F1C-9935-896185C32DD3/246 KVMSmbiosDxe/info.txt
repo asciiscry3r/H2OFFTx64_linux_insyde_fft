@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: KVMSmbiosDxe
+Fixed: No
+Offset: 1CDCC88h
+File GUID: 4C624FE6-80BA-4F83-9591-DFA7F6A24F6F
+Type: 07h
+Attributes: 00h
+Full size: 970Ah (38666)
+Header size: 18h (24)
+Body size: 96F2h (38642)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 67h, valid
+Data checksum: AAh, valid

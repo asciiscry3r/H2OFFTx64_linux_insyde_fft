@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PrintDxe
+Fixed: No
+Offset: 66EA0h
+File GUID: 79E4A61C-ED73-4312-94FE-E3E7563362A9
+Type: 07h
+Attributes: 00h
+Full size: 229Ah (8858)
+Header size: 18h (24)
+Body size: 2282h (8834)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 79h, valid
+Data checksum: AAh, valid

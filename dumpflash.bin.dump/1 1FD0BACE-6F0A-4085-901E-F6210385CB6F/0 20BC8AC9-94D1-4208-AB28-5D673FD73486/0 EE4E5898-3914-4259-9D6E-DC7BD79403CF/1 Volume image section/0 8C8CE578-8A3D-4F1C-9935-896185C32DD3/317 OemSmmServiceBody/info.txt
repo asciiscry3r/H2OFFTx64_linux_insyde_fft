@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OemSmmServiceBody
+Fixed: No
+Offset: 1EA6688h
+File GUID: 03C1F5C8-48F1-416E-A6B6-992DF3BBACA6
+Type: 0Ah
+Attributes: 00h
+Full size: 60E6h (24806)
+Header size: 18h (24)
+Body size: 60CEh (24782)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

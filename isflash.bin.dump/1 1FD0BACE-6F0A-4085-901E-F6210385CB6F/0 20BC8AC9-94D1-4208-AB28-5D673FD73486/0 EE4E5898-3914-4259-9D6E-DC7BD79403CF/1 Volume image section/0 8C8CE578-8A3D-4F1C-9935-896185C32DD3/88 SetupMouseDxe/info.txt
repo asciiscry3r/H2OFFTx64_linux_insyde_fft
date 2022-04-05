@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SetupMouseDxe
+Fixed: No
+Offset: 2C44E0h
+File GUID: 06B5947E-FF53-457D-98BC-C5ABC777FD5A
+Type: 07h
+Attributes: 00h
+Full size: 1F136h (127286)
+Header size: 18h (24)
+Body size: 1F11Eh (127262)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 97h, valid
+Data checksum: AAh, valid

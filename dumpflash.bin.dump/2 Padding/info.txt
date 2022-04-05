@@ -1,0 +1,6 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: ADA000h
+Offset: ADA000h
+Full size: 3E1000h (4067328)

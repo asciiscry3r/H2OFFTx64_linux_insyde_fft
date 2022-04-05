@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: StatusCodeHandlerSmm
+Fixed: No
+Offset: 4E7D0h
+File GUID: 79CD78D8-6EDC-4978-BD02-3299C387AB17
+Type: 0Ah
+Attributes: 00h
+Full size: 80A6h (32934)
+Header size: 18h (24)
+Body size: 808Eh (32910)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 99h, valid
+Data checksum: AAh, valid

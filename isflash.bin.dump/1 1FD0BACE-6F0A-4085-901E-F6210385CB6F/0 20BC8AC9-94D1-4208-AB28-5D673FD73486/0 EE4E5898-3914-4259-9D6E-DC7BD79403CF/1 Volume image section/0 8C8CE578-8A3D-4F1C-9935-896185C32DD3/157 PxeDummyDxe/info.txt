@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PxeDummyDxe
+Fixed: No
+Offset: 16E0998h
+File GUID: F0F1588E-9028-4EB8-8031-F233B48EA0B7
+Type: 07h
+Attributes: 00h
+Full size: 3D1Eh (15646)
+Header size: 18h (24)
+Body size: 3D06h (15622)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AAh, valid
+Data checksum: AAh, valid

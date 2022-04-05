@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 100E4h
+Type: 15h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Text: CpuDxe

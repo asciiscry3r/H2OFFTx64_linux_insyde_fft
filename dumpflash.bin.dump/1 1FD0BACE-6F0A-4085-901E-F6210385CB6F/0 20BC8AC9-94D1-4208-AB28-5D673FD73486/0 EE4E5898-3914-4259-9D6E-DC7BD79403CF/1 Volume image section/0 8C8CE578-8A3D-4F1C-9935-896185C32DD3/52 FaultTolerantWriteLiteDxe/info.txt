@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: FaultTolerantWriteLiteDxe
+Fixed: No
+Offset: 1A0C70h
+File GUID: 4C862FC6-0E54-4E36-8C8F-FF6F3167951F
+Type: 0Ch
+Attributes: 00h
+Full size: 80DAh (32986)
+Header size: 18h (24)
+Body size: 80C2h (32962)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ConPlatformDxe
+Fixed: No
+Offset: 649B0h
+File GUID: 51CCF399-4FDF-4E55-A45B-E123F84D456A
+Type: 07h
+Attributes: 00h
+Full size: 24EEh (9454)
+Header size: 18h (24)
+Body size: 24D6h (9430)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 76h, valid
+Data checksum: AAh, valid

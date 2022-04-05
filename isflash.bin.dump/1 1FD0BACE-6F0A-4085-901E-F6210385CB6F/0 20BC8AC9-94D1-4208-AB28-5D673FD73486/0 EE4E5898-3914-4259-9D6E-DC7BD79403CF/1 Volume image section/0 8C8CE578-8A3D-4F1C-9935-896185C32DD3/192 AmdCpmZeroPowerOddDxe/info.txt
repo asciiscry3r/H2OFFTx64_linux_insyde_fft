@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmZeroPowerOddDxe
+Fixed: No
+Offset: 178EBC8h
+File GUID: CC6E66A3-472A-4802-9B97-21420C026391
+Type: 07h
+Attributes: 00h
+Full size: A76h (2678)
+Header size: 18h (24)
+Body size: A5Eh (2654)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E4h, valid
+Data checksum: AAh, valid

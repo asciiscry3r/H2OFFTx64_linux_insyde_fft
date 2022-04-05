@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: UsbBusDxe
+Fixed: No
+Offset: 264078h
+File GUID: 240612B7-A063-11D4-9A3A-0090273FC14D
+Type: 0Ch
+Attributes: 00h
+Full size: C092h (49298)
+Header size: 18h (24)
+Body size: C07Ah (49274)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

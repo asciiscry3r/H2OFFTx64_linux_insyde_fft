@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: TisDxe
+Fixed: No
+Offset: 126360h
+File GUID: 2892389C-FBE9-43D7-B9FC-6C5D90D18456
+Type: 0Ch
+Attributes: 00h
+Full size: 607Eh (24702)
+Header size: 18h (24)
+Body size: 6066h (24678)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D1h, valid
+Data checksum: AAh, valid

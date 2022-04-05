@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdSmmCommunication
+Fixed: No
+Offset: 1E34058h
+File GUID: 64E6D006-E62A-481E-8F5A-3F76C9184741
+Type: 0Ah
+Attributes: 00h
+Full size: A0A2h (41122)
+Header size: 18h (24)
+Body size: A08Ah (41098)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

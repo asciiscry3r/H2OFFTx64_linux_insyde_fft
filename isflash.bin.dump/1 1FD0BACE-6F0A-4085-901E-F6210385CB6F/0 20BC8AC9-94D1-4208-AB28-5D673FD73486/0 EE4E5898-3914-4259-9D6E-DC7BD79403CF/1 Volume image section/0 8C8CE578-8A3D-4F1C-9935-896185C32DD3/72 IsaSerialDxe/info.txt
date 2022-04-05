@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IsaSerialDxe
+Fixed: No
+Offset: 237FD0h
+File GUID: 93B80003-9FB3-11D4-9A3A-0090273FC14D
+Type: 07h
+Attributes: 00h
+Full size: 3E8Ah (16010)
+Header size: 18h (24)
+Body size: 3E72h (15986)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D4h, valid
+Data checksum: AAh, valid

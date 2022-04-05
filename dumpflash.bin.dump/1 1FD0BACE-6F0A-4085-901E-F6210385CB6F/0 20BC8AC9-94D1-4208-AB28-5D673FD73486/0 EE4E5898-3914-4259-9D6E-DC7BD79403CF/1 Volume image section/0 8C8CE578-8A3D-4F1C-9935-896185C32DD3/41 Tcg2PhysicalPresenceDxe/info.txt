@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Tcg2PhysicalPresenceDxe
+Fixed: No
+Offset: 1388C0h
+File GUID: EDB396E3-2DDC-4396-BCA5-1202D3005AEA
+Type: 07h
+Attributes: 00h
+Full size: AF22h (44834)
+Header size: 18h (24)
+Body size: AF0Ah (44810)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A1h, valid
+Data checksum: AAh, valid

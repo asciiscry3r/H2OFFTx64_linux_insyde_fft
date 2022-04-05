@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: XhciDxe
+Fixed: No
+Offset: 1CF8B48h
+File GUID: 356C2B12-3124-4451-BF66-B502D88A0074
+Type: 0Ch
+Attributes: 00h
+Full size: E08Eh (57486)
+Header size: 18h (24)
+Body size: E076h (57462)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Ch, valid
+Data checksum: AAh, valid

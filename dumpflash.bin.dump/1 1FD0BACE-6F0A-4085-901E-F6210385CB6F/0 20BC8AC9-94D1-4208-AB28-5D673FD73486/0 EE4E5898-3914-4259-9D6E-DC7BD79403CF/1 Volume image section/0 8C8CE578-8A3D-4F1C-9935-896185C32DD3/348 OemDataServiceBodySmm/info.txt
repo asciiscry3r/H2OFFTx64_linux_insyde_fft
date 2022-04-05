@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OemDataServiceBodySmm
+Fixed: No
+Offset: 1F30058h
+File GUID: 842546AF-5AEA-40DB-8695-42E52575CA45
+Type: 0Ah
+Attributes: 00h
+Full size: 50A6h (20646)
+Header size: 18h (24)
+Body size: 508Eh (20622)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

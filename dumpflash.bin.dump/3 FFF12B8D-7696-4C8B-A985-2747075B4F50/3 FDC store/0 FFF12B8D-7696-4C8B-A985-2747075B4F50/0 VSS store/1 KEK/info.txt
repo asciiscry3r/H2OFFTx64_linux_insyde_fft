@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: KEK
+Fixed: Yes
+Base: F07412h
+Offset: 3BAh
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+Full size: 65Ch (1628)
+Header size: 44h (68)
+Body size: 618h (1560)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000027h (NonVolatile, BootService, Runtime, TimeBasedAuthWrite)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

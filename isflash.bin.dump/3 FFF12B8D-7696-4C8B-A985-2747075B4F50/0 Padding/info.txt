@@ -1,0 +1,6 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: FEE218h
+Offset: 48h
+Full size: 24FB8h (151480)

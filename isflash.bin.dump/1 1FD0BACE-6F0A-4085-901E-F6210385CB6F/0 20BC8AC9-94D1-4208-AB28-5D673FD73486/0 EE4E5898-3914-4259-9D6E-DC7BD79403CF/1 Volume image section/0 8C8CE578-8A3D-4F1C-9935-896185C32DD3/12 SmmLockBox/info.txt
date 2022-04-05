@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmLockBox
+Fixed: No
+Offset: 5D928h
+File GUID: 33FB3535-F15E-4C17-B303-5EB94595ECB6
+Type: 0Ah
+Attributes: 00h
+Full size: 7082h (28802)
+Header size: 18h (24)
+Body size: 706Ah (28778)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 71h, valid
+Data checksum: AAh, valid

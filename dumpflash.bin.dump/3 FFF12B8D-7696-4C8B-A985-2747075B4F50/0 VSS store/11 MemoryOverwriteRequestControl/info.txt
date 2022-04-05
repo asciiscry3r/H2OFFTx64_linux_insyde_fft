@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: MemoryOverwriteRequestControl
+Fixed: Yes
+Base: EBB49Ch
+Offset: 454h
+Variable GUID: E20939BE-32D4-41BE-A150-897F85D49829
+Full size: 79h (121)
+Header size: 78h (120)
+Body size: 1h (1)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

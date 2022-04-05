@@ -1,0 +1,12 @@
+Type: VSS store
+Subtype: 
+Fixed: Yes
+Base: 103A228h
+Offset: 50h
+Signature: 53535624h
+Full size: 3FB0h (16304)
+Header size: 10h (16)
+Body size: 3FA0h (16288)
+Format: 5Ah
+State: FEh
+Unknown: 0000h

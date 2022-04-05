@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: LegacyRegion2Dxe
+Fixed: No
+Offset: 1C1E890h
+File GUID: EC2BEECA-E84A-445B-869B-F7A73C96F58A
+Type: 07h
+Attributes: 00h
+Full size: 1A5Ah (6746)
+Header size: 18h (24)
+Body size: 1A42h (6722)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D5h, valid
+Data checksum: AAh, valid

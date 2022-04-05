@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RtkUsbUndiDxe
+Fixed: No
+Offset: 1E888A0h
+File GUID: C266C39A-0FA4-4A63-B3CD-FE183D4EDE38
+Type: 07h
+Attributes: 00h
+Full size: 118CAh (71882)
+Header size: 18h (24)
+Body size: 118B2h (71858)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FAh, valid
+Data checksum: AAh, valid

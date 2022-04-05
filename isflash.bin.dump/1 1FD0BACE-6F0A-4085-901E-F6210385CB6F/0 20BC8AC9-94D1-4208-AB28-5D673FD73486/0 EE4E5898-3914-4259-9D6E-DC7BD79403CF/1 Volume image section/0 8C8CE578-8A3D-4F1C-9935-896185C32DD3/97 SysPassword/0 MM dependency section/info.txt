@@ -1,0 +1,15 @@
+Type: Section
+Subtype: MM dependency
+Fixed: No
+Offset: 18h
+Type: 1Ch
+Full size: 3Ah (58)
+Header size: 4h (4)
+Body size: 36h (54)
+Parsed expression:
+PUSH 13A3F0F6-264A-3EF0-F2E0-DEC512342F34
+PUSH ED32D533-99E6-4209-9CC0-2D72CDD998A7
+PUSH 55D662CE-2EC6-4451-A305-BA06B50786C5
+AND
+AND
+END

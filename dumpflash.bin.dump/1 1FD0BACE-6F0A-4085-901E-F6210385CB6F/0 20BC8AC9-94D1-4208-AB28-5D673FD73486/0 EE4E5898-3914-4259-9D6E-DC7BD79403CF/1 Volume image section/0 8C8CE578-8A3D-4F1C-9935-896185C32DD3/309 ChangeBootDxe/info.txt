@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ChangeBootDxe
+Fixed: No
+Offset: 1E6E418h
+File GUID: CC8A63DE-7499-440D-B245-2A547BB79D4C
+Type: 07h
+Attributes: 00h
+Full size: 990Eh (39182)
+Header size: 18h (24)
+Body size: 98F6h (39158)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CDh, valid
+Data checksum: AAh, valid

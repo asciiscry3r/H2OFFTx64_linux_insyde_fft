@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MctpSmbusDxe
+Fixed: No
+Offset: 1CDBE18h
+File GUID: 1361DEC9-A270-4013-9701-A540F56C58C9
+Type: 07h
+Attributes: 00h
+Full size: E6Ah (3690)
+Header size: 18h (24)
+Body size: E52h (3666)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 02h, valid
+Data checksum: AAh, valid

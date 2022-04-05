@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: Boot2001
+Fixed: Yes
+Base: EBD95Eh
+Offset: 2916h
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+Full size: 78h (120)
+Header size: 4Eh (78)
+Body size: 2Ah (42)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: DownCoreStatus
+Fixed: Yes
+Base: EBB17Dh
+Offset: 135h
+Variable GUID: 29749BAD-401B-4F6D-B124-CECE8C590C48
+Full size: 5Bh (91)
+Header size: 5Ah (90)
+Body size: 1h (1)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

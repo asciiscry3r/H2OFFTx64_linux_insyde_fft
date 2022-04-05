@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootMaintDxe
+Fixed: No
+Offset: 48D938h
+File GUID: 167CC1F7-F4AB-46CC-8773-6278056C14EB
+Type: 07h
+Attributes: 00h
+Full size: 7D336h (512822)
+Header size: 18h (24)
+Body size: 7D31Eh (512798)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AAh, valid
+Data checksum: AAh, valid

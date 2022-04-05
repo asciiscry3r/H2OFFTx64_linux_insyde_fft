@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HiiLayoutPkgDxe
+Fixed: No
+Offset: 67A658h
+File GUID: 6AD37609-A9F9-4587-9023-7820E10F5B7A
+Type: 07h
+Attributes: 00h
+Full size: 2D56EAh (2971370)
+Header size: 18h (24)
+Body size: 2D56D2h (2971346)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 52h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: BA8h
+Type: 15h
+Full size: 38h (56)
+Header size: 4h (4)
+Body size: 34h (52)
+Text: LegacyBiosPlatformHookDxe

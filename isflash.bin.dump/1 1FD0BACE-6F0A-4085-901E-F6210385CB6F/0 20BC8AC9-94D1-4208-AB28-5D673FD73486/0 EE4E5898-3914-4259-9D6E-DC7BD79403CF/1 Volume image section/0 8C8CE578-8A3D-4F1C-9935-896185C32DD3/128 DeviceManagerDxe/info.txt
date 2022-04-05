@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DeviceManagerDxe
+Fixed: No
+Offset: 50AC70h
+File GUID: E4ED28FD-13C1-40C4-B55A-C5260771A2CF
+Type: 07h
+Attributes: 00h
+Full size: 67512h (423186)
+Header size: 18h (24)
+Body size: 674FAh (423162)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BBh, valid
+Data checksum: AAh, valid

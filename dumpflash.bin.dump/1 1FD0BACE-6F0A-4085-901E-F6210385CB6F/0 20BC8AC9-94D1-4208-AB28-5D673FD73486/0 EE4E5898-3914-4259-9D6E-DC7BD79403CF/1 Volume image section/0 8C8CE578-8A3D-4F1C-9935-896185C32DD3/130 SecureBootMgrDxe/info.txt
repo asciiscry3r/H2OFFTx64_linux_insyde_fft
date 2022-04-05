@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SecureBootMgrDxe
+Fixed: No
+Offset: 57A098h
+File GUID: 5F53F1DE-E647-425D-8B59-2DDEE19E8C76
+Type: 07h
+Attributes: 00h
+Full size: 1AB66h (109414)
+Header size: 18h (24)
+Body size: 1AB4Eh (109390)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

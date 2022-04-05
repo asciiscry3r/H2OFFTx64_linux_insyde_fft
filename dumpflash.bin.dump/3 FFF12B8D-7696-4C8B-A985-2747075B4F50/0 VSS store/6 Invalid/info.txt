@@ -1,0 +1,11 @@
+Type: VSS entry
+Subtype: Invalid
+Fixed: Yes
+Base: EBB2B6h
+Offset: 26Eh
+Full size: 61h (97)
+Header size: 60h (96)
+Body size: 1h (1)
+State: 3Ch
+Reserved: 00h
+Attributes: 00000017h (NonVolatile, BootService, Runtime, AuthWrite)

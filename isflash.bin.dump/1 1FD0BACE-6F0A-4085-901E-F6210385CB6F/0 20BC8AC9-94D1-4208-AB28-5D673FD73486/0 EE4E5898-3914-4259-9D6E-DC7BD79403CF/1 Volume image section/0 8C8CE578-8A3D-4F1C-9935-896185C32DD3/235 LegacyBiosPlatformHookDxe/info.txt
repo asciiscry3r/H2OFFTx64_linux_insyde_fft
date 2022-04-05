@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: LegacyBiosPlatformHookDxe
+Fixed: No
+Offset: 1C55018h
+File GUID: A94B6FBA-BB07-4A98-8749-A860D6EB7724
+Type: 07h
+Attributes: 00h
+Full size: BEEh (3054)
+Header size: 18h (24)
+Body size: BD6h (3030)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Bh, valid
+Data checksum: AAh, valid

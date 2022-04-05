@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: BctBaseSmmRN
+Fixed: No
+Offset: 1F50D28h
+File GUID: DC66C1E2-C114-4D0C-ACC0-003F15B3F729
+Type: 0Ah
+Attributes: 00h
+Full size: A0BAh (41146)
+Header size: 18h (24)
+Body size: A0A2h (41122)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F6h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DataHubStdErrDxe
+Fixed: No
+Offset: 624060h
+File GUID: CA515306-00CE-4032-874E-11B755FF6866
+Type: 07h
+Attributes: 00h
+Full size: 79Ah (1946)
+Header size: 18h (24)
+Body size: 782h (1922)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E5h, valid
+Data checksum: AAh, valid

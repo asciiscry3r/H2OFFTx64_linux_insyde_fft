@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BdsCheckPointHandler
+Fixed: No
+Offset: 1F04D18h
+File GUID: 3DF2AECB-7489-4D91-9BEA-9B135A564670
+Type: 07h
+Attributes: 00h
+Full size: 10E6h (4326)
+Header size: 18h (24)
+Body size: 10CEh (4302)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

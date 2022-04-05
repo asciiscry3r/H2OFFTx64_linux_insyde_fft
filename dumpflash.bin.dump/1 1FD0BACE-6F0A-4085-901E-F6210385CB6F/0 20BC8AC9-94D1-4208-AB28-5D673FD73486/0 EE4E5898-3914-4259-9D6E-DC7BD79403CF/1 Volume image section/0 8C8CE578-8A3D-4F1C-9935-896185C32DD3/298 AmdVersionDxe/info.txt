@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdVersionDxe
+Fixed: No
+Offset: 1E3E100h
+File GUID: 29D40F30-E8BF-4803-88A6-4247A29A5318
+Type: 07h
+Attributes: 00h
+Full size: 6C2h (1730)
+Header size: 18h (24)
+Body size: 6AAh (1706)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

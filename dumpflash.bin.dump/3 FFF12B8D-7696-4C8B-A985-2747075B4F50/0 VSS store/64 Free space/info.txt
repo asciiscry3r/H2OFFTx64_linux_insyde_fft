@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Fixed: Yes
+Base: EBF2A5h
+Offset: 425Dh
+Full size: 20D5Bh (134491)

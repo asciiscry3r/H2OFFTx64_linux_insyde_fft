@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ApobRnDxe
+Fixed: No
+Offset: 1D56B68h
+File GUID: FE6E1666-591E-4AB8-9531-2BF6433A3925
+Type: 07h
+Attributes: 00h
+Full size: 5ADEh (23262)
+Header size: 18h (24)
+Body size: 5AC6h (23238)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Eh, valid
+Data checksum: AAh, valid

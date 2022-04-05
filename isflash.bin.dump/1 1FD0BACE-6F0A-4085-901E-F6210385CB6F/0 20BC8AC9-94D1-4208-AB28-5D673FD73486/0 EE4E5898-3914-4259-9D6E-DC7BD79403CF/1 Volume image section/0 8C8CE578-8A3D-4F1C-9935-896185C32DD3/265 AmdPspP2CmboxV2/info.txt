@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdPspP2CmboxV2
+Fixed: No
+Offset: 1D2F6F0h
+File GUID: 4759E93E-8F44-448F-88A1-BD97FC47BEA5
+Type: 0Ah
+Attributes: 00h
+Full size: E0F6h (57590)
+Header size: 18h (24)
+Body size: E0DEh (57566)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 90h, valid
+Data checksum: AAh, valid

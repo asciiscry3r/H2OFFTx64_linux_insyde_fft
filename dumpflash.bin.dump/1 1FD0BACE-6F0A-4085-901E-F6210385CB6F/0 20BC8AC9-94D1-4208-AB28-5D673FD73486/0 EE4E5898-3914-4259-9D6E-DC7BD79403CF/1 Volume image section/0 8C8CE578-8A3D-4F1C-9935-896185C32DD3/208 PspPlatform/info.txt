@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PspPlatform
+Fixed: No
+Offset: 179A598h
+File GUID: 28374747-76FF-41B3-9740-381EFAEF13BC
+Type: 07h
+Attributes: 00h
+Full size: 488Eh (18574)
+Header size: 18h (24)
+Body size: 4876h (18550)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E8h, valid
+Data checksum: AAh, valid

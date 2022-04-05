@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: PK
+Fixed: Yes
+Base: F07068h
+Offset: 10h
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+Full size: 3AAh (938)
+Header size: 42h (66)
+Body size: 368h (872)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000027h (NonVolatile, BootService, Runtime, TimeBasedAuthWrite)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

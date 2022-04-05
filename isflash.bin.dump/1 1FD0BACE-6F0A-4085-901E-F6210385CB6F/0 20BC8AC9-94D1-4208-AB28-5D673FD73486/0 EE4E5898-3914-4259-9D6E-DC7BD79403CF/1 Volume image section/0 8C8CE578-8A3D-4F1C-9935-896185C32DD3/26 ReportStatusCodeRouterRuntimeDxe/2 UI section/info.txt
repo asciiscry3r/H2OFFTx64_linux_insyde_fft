@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 7034h
+Type: 15h
+Full size: 46h (70)
+Header size: 4h (4)
+Body size: 42h (66)
+Text: ReportStatusCodeRouterRuntimeDxe

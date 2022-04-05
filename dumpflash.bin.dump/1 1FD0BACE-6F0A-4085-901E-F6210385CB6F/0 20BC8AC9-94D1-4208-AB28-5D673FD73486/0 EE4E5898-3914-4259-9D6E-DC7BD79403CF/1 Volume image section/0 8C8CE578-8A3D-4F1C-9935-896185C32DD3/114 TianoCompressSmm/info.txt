@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: TianoCompressSmm
+Fixed: No
+Offset: 3ABA38h
+File GUID: C7EA9F94-1547-44F0-863F-563EAE79E1C0
+Type: 0Ah
+Attributes: 00h
+Full size: 907Ah (36986)
+Header size: 18h (24)
+Body size: 9062h (36962)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

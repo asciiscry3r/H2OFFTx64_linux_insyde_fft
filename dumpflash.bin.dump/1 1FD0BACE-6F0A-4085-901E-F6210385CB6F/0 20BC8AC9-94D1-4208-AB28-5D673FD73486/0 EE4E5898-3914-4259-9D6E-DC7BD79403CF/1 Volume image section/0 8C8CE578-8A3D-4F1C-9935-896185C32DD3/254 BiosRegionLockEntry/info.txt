@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BiosRegionLockEntry
+Fixed: No
+Offset: 1CF46C8h
+File GUID: BC05DC37-9DA0-4050-9728-F34DDB01E200
+Type: 07h
+Attributes: 00h
+Full size: 21FEh (8702)
+Header size: 18h (24)
+Body size: 21E6h (8678)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Ch, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemDxeInstallHook
+Fixed: No
+Offset: 1EB5550h
+File GUID: 310B3904-0728-4977-A90C-06B8ECD85A9F
+Type: 07h
+Attributes: 00h
+Full size: 145Eh (5214)
+Header size: 18h (24)
+Body size: 1446h (5190)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

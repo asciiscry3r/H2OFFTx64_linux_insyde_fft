@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OemODMSmmServiceDriver
+Fixed: No
+Offset: 1EB04B0h
+File GUID: AA924214-DFCB-4BEE-AA33-FAE9729AF000
+Type: 0Ah
+Attributes: 00h
+Full size: 509Ah (20634)
+Header size: 18h (24)
+Body size: 5082h (20610)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DBh, valid
+Data checksum: AAh, valid

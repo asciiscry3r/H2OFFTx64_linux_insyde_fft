@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: SetPcrBanks
+Fixed: Yes
+Base: EBCA92h
+Offset: 1A4Ah
+Variable GUID: 8376BDCA-5E03-4735-951A-4A74141E5886
+Full size: 55h (85)
+Header size: 54h (84)
+Body size: 1h (1)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

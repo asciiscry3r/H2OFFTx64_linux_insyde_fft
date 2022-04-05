@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: ApSyncFlagNv
+Fixed: Yes
+Base: EBB442h
+Offset: 3FAh
+Variable GUID: AD3F6761-F0A3-46C8-A4CB-19B70FFDB305
+Full size: 5Ah (90)
+Header size: 56h (86)
+Body size: 4h (4)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

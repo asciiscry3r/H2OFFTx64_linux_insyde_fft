@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdFabricRnDxe
+Fixed: No
+Offset: 1D5C648h
+File GUID: ADFC6F79-AA9F-462B-ABDB-C48E0F6356BF
+Type: 07h
+Attributes: 00h
+Full size: EC5Ah (60506)
+Header size: 18h (24)
+Body size: EC42h (60482)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 09h, valid
+Data checksum: AAh, valid

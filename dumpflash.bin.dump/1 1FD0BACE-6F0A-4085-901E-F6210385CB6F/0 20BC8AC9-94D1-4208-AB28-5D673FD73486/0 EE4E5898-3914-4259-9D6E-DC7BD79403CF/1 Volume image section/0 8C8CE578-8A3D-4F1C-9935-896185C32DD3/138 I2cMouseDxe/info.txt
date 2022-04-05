@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: I2cMouseDxe
+Fixed: No
+Offset: 5FCCE8h
+File GUID: 220E57C8-4E71-493F-91B8-0F7F820A1DA2
+Type: 07h
+Attributes: 00h
+Full size: 2926h (10534)
+Header size: 18h (24)
+Body size: 290Eh (10510)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F2h, valid
+Data checksum: AAh, valid

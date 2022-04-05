@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OemWMISmmCallback
+Fixed: No
+Offset: 1EC1580h
+File GUID: FAD93433-76B9-4482-4567-3BEACEA9B35D
+Type: 0Ah
+Attributes: 00h
+Full size: 5E19h (24089)
+Header size: 18h (24)
+Body size: 5E01h (24065)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F8h, valid
+Data checksum: AAh, valid

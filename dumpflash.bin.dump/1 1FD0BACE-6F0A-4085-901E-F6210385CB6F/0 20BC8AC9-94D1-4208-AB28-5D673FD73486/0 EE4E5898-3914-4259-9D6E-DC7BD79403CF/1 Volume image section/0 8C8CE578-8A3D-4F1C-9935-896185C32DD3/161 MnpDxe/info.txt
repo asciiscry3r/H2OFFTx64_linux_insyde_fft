@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MnpDxe
+Fixed: No
+Offset: 16EADC8h
+File GUID: 025BBFC7-E6A9-4B8B-82AD-6815A1AEAF4A
+Type: 07h
+Attributes: 00h
+Full size: 7DDEh (32222)
+Header size: 18h (24)
+Body size: 7DC6h (32198)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

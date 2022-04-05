@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UsbTouchPanelDxe
+Fixed: No
+Offset: 296118h
+File GUID: 47F48C99-CB23-4CF8-9D7D-CE7C86EF22A3
+Type: 07h
+Attributes: 00h
+Full size: 3DE2h (15842)
+Header size: 18h (24)
+Body size: 3DCAh (15818)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AAh, valid
+Data checksum: AAh, valid

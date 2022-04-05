@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemBootDeviceServiceDxe
+Fixed: No
+Offset: 1EB69B0h
+File GUID: 683732B5-2A38-43A8-9CE2-02CD7250DCD9
+Type: 07h
+Attributes: 00h
+Full size: 5D5Eh (23902)
+Header size: 18h (24)
+Body size: 5D46h (23878)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A7h, valid
+Data checksum: AAh, valid

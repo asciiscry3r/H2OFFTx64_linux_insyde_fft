@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FlashDeviceFvbRuntimeDxe
+Fixed: No
+Offset: 2B0070h
+File GUID: B0C2372B-9393-4CBC-9CAF-53913C9DCE29
+Type: 07h
+Attributes: 00h
+Full size: B08Ah (45194)
+Header size: 18h (24)
+Body size: B072h (45170)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BEh, valid
+Data checksum: AAh, valid

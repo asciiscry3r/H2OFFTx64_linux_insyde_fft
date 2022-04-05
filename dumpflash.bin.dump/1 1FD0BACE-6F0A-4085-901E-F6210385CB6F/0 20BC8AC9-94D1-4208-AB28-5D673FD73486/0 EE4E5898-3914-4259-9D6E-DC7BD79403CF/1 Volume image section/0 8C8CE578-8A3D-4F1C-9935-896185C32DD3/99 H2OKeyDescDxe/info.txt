@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: H2OKeyDescDxe
+Fixed: No
+Offset: 351D08h
+File GUID: 9C452F5C-6200-4AA6-8068-F44B4F36D41E
+Type: 07h
+Attributes: 00h
+Full size: 2802h (10242)
+Header size: 18h (24)
+Body size: 27EAh (10218)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 73h, valid
+Data checksum: AAh, valid

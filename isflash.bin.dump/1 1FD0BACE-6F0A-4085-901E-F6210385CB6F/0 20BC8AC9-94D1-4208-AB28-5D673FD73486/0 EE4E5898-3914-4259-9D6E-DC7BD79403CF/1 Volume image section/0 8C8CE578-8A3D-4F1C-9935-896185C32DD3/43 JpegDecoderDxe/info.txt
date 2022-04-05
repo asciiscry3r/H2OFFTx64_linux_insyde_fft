@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: JpegDecoderDxe
+Fixed: No
+Offset: 14E030h
+File GUID: 2707E46D-DBD7-41C2-9C04-C9FDB8BAD86C
+Type: 07h
+Attributes: 00h
+Full size: 2CE6h (11494)
+Header size: 18h (24)
+Body size: 2CCEh (11470)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 97h, valid
+Data checksum: AAh, valid

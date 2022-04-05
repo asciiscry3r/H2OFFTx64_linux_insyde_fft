@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: NvmExpressDxe
+Fixed: No
+Offset: 23BE60h
+File GUID: 5BE3BDF4-53CF-46A3-A6A9-73C34A6E5EE3
+Type: 0Ch
+Attributes: 00h
+Full size: E08Ah (57482)
+Header size: 18h (24)
+Body size: E072h (57458)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 12h, valid
+Data checksum: AAh, valid

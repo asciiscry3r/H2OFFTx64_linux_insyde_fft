@@ -1,0 +1,6 @@
+Type: Image
+Subtype: UEFI
+Fixed: Yes
+Base: 0h
+Offset: 0h
+Full size: 1000000h (16777216)

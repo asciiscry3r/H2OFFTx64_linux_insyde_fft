@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Fixed: Yes
+Base: 103CE74h
+Offset: 2C4Ch
+Full size: 1364h (4964)

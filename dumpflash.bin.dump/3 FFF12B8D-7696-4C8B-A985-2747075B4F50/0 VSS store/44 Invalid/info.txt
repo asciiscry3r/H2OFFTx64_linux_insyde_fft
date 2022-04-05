@@ -1,0 +1,11 @@
+Type: VSS entry
+Subtype: Invalid
+Fixed: Yes
+Base: EBD660h
+Offset: 2618h
+Full size: 92h (146)
+Header size: 4Ah (74)
+Body size: 48h (72)
+State: 3Ch
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)

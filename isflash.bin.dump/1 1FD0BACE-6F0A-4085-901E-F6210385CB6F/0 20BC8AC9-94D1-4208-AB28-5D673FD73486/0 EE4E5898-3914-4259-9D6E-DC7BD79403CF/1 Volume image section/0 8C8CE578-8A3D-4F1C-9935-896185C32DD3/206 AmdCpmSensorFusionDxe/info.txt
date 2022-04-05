@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmSensorFusionDxe
+Fixed: No
+Offset: 1799000h
+File GUID: 38D51B46-D275-475C-A951-80A7E1CF38B1
+Type: 07h
+Attributes: 00h
+Full size: 796h (1942)
+Header size: 18h (24)
+Body size: 77Eh (1918)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Ah, valid
+Data checksum: AAh, valid

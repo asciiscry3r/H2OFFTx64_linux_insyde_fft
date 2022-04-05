@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PhysicalPresenceDxe
+Fixed: No
+Offset: 117D18h
+File GUID: 96107C8E-9490-4767-9D0D-5590F1F6E1FC
+Type: 07h
+Attributes: 00h
+Full size: 81DAh (33242)
+Header size: 18h (24)
+Body size: 81C2h (33218)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdSocFp6RnDxe
+Fixed: No
+Offset: 1D1F2C8h
+File GUID: B2DED54E-47CD-8416-1818-FBB243809984
+Type: 07h
+Attributes: 00h
+Full size: 2C66h (11366)
+Header size: 18h (24)
+Body size: 2C4Eh (11342)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 49h, valid
+Data checksum: AAh, valid

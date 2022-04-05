@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmmAccessDxe2
+Fixed: No
+Offset: 1C301E8h
+File GUID: 84D4AD5B-1702-442E-BDD8-57E1196111E5
+Type: 07h
+Attributes: 00h
+Full size: 2292h (8850)
+Header size: 18h (24)
+Body size: 227Ah (8826)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Dh, valid
+Data checksum: AAh, valid

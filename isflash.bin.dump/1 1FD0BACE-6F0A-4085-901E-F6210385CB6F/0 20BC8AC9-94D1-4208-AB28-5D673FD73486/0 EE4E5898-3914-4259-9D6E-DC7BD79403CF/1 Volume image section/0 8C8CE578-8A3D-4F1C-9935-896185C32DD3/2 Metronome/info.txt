@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Metronome
+Fixed: No
+Offset: 19028h
+File GUID: C8339973-A563-4561-B858-D8476F9DEFC4
+Type: 07h
+Attributes: 00h
+Full size: ABAh (2746)
+Header size: 18h (24)
+Body size: AA2h (2722)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

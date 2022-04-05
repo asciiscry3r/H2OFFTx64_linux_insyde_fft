@@ -1,0 +1,11 @@
+Type: FTW store
+Subtype: 
+Fixed: Yes
+Base: 10131D0h
+Offset: 25000h
+Signature: FFF12B8D-7696-4C8B-A985-2747075B4F50
+Full size: 1000h (4096)
+Header size: 20h (32)
+Body size: FE0h (4064)
+State: FEh
+Header CRC32: B0458FB9h, valid

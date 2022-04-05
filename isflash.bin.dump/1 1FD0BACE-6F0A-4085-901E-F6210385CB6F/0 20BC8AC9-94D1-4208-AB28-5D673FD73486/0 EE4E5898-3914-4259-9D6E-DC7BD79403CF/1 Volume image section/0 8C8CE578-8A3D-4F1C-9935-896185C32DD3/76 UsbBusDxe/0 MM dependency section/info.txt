@@ -1,0 +1,13 @@
+Type: Section
+Subtype: MM dependency
+Fixed: No
+Offset: 18h
+Type: 1Ch
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Parsed expression:
+PUSH 13A3F0F6-264A-3EF0-F2E0-DEC512342F34
+PUSH 347B6711-E458-43C8-9636-F173F698B329
+AND
+END

@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: AEBO
+Fixed: Yes
+Base: EBDEF3h
+Offset: 2EABh
+Variable GUID: 89CB0E8D-393C-4830-BFFF-65D9147E8C3B
+Full size: 52h (82)
+Header size: 46h (70)
+Body size: Ch (12)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

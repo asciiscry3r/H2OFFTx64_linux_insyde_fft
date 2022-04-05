@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CapsuleRuntimeDxe
+Fixed: No
+Offset: 3C8900h
+File GUID: 42857F0A-13F2-4B21-8A23-53D3F714B840
+Type: 07h
+Attributes: 00h
+Full size: 7B07Ah (503930)
+Header size: 18h (24)
+Body size: 7B062h (503906)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

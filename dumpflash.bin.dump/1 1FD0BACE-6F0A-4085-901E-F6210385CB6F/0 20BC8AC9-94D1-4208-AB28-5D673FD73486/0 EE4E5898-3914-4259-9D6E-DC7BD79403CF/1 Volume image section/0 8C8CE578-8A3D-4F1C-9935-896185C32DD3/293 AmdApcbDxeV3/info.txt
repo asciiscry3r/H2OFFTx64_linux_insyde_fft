@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdApcbDxeV3
+Fixed: No
+Offset: 1E0B6C8h
+File GUID: 4D3708A0-6D9B-47D3-AD87-E80C781BC0A7
+Type: 07h
+Attributes: 00h
+Full size: C0F6h (49398)
+Header size: 18h (24)
+Body size: C0DEh (49374)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D3h, valid
+Data checksum: AAh, valid

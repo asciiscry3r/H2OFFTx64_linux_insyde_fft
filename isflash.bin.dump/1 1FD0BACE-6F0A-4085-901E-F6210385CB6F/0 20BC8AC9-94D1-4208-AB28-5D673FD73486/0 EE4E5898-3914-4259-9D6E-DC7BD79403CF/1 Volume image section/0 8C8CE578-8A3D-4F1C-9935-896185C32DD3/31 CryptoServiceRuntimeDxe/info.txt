@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: CryptoServiceRuntimeDxe
+Fixed: No
+Offset: D3C88h
+File GUID: 4AC99A7C-1DCF-4A51-8F06-5EEDFE8A8864
+Type: 0Ch
+Attributes: 00h
+Full size: 3108Eh (200846)
+Header size: 18h (24)
+Body size: 31076h (200822)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Fh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DriverHealthManagerDxe
+Fixed: No
+Offset: 572188h
+File GUID: EBF8ED7C-0DD1-4787-84F1-F48D537DCACF
+Type: 07h
+Attributes: 00h
+Full size: 7F0Ah (32522)
+Header size: 18h (24)
+Body size: 7EF2h (32498)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

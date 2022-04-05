@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FchSmbusDxe
+Fixed: No
+Offset: 1DE3AC0h
+File GUID: 76700A4A-25C7-4B2F-B190-8DABB2EF2129
+Type: 07h
+Attributes: 00h
+Full size: 1E32h (7730)
+Header size: 18h (24)
+Body size: 1E1Ah (7706)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

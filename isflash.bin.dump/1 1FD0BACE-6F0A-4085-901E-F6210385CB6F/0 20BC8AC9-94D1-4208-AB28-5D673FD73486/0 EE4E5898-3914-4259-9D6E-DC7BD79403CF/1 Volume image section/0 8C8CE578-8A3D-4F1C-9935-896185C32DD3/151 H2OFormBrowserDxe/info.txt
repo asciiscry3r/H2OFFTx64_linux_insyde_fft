@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: H2OFormBrowserDxe
+Fixed: No
+Offset: 94FD48h
+File GUID: 9E5DAEB4-4B91-4466-9EBE-81C7E4401E6D
+Type: 07h
+Attributes: 00h
+Full size: 2F86Eh (194670)
+Header size: 18h (24)
+Body size: 2F856h (194646)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdErrorLogDxe
+Fixed: No
+Offset: 1D21F30h
+File GUID: 8624F36D-6DE0-44C3-8322-74AD419D3A90
+Type: 07h
+Attributes: 00h
+Full size: FB6h (4022)
+Header size: 18h (24)
+Body size: F9Eh (3998)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 68h, valid
+Data checksum: AAh, valid

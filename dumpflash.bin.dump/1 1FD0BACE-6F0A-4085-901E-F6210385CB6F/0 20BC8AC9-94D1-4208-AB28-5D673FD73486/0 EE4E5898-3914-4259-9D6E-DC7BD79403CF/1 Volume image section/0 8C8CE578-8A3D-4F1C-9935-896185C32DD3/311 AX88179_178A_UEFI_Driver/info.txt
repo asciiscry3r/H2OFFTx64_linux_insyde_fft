@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AX88179_178A_UEFI_Driver
+Fixed: No
+Offset: 1E7E830h
+File GUID: 9EE5DC5A-6C0C-443F-A6C6-BE12E7878F41
+Type: 07h
+Attributes: 00h
+Full size: A06Ah (41066)
+Header size: 18h (24)
+Body size: A052h (41042)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C1h, valid
+Data checksum: AAh, valid

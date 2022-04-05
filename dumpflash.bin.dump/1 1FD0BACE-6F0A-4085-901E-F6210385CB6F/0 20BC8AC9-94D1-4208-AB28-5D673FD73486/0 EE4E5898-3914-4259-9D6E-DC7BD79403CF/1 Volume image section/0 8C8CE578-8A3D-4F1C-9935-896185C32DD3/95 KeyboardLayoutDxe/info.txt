@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: KeyboardLayoutDxe
+Fixed: No
+Offset: 327B00h
+File GUID: 68B09391-751F-46FF-A4D6-71B8502F52AB
+Type: 07h
+Attributes: 00h
+Full size: 1F1Eh (7966)
+Header size: 18h (24)
+Body size: 1F06h (7942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 88h, valid
+Data checksum: AAh, valid

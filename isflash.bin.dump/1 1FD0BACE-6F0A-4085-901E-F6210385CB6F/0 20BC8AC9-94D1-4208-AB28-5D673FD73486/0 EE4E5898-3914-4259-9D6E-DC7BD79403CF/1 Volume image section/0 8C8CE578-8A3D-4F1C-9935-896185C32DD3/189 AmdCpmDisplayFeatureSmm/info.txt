@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AmdCpmDisplayFeatureSmm
+Fixed: No
+Offset: 1784470h
+File GUID: 30AF4110-A58E-4EF7-8C75-B725939B3B9F
+Type: 0Ah
+Attributes: 00h
+Full size: 70BEh (28862)
+Header size: 18h (24)
+Body size: 70A6h (28838)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Bh, valid
+Data checksum: AAh, valid

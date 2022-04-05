@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RAIDXpert2_F50_0x00
+Fixed: No
+Offset: 1C5BC28h
+File GUID: AFD69E65-1CB3-472C-BE63-0C98A2C0665C
+Type: 07h
+Attributes: 00h
+Full size: 5337Eh (340862)
+Header size: 18h (24)
+Body size: 53366h (340838)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 90h, valid
+Data checksum: AAh, valid

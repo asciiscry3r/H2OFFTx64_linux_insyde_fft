@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UnexpectedIrqWA
+Fixed: No
+Offset: 1C37240h
+File GUID: F11757E2-1D21-47BB-9E07-04C60DA00ECA
+Type: 07h
+Attributes: 00h
+Full size: 5B6h (1462)
+Header size: 18h (24)
+Body size: 59Eh (1438)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

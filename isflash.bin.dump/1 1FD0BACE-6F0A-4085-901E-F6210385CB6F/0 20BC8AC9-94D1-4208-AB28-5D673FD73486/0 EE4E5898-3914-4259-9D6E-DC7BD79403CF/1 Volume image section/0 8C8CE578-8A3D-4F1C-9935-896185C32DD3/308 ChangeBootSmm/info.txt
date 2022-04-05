@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: ChangeBootSmm
+Fixed: No
+Offset: 1E68380h
+File GUID: 693EDDB2-6BE9-4500-A861-C162664B4621
+Type: 0Ah
+Attributes: 00h
+Full size: 6096h (24726)
+Header size: 18h (24)
+Body size: 607Eh (24702)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EDh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: AMD_RAID
+Fixed: Yes
+Base: EBB82Fh
+Offset: 7E7h
+Variable GUID: FE26A894-D199-47D4-8AFA-070E3D54BA86
+Full size: 56h (86)
+Header size: 4Eh (78)
+Body size: 8h (8)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 569Ch
+Type: 15h
+Full size: 3Eh (62)
+Header size: 4h (4)
+Body size: 3Ah (58)
+Text: BootGraphicsResourceTableDxe

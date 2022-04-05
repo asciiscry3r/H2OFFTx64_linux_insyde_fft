@@ -1,0 +1,15 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: UsbKbDxe
+Fixed: No
+Offset: 27FF78h
+File GUID: 2D2E62CF-9ECF-43B7-8219-94E7FC713DFE
+Type: 0Ch
+Attributes: 00h
+Full size: D102h (53506)
+Header size: 18h (24)
+Body size: D0EAh (53482)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 70h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: I2cPlatformSpecificDxe
+Fixed: No
+Offset: 1C29BF8h
+File GUID: C4700DAB-41B6-4FDF-CCAA-E39736FFF2BA
+Type: 07h
+Attributes: 00h
+Full size: 10C6h (4294)
+Header size: 18h (24)
+Body size: 10AEh (4270)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 41h, valid
+Data checksum: AAh, valid

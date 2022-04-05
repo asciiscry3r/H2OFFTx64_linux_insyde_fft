@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: MemoryOverwriteRequestControlLock
+Fixed: Yes
+Base: EBB058h
+Offset: 10h
+Variable GUID: BB983CCF-151D-40E1-A07B-4A17BE168292
+Full size: 81h (129)
+Header size: 80h (128)
+Body size: 1h (1)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

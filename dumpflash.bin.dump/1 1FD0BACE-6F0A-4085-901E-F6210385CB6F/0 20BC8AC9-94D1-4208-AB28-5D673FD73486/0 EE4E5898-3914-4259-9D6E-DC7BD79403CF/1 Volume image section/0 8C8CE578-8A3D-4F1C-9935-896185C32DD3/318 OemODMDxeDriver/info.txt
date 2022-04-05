@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemODMDxeDriver
+Fixed: No
+Offset: 1EAC770h
+File GUID: 05F7AA70-A64A-432C-8CEE-4CDECB8671D7
+Type: 07h
+Attributes: 00h
+Full size: 3D3Ah (15674)
+Header size: 18h (24)
+Body size: 3D22h (15650)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D0h, valid
+Data checksum: AAh, valid

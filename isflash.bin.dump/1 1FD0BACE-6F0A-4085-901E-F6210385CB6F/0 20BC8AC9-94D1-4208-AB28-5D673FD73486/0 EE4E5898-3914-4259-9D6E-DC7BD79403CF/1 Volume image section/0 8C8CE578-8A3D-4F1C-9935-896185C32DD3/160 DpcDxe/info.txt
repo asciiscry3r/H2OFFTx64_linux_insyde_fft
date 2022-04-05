@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DpcDxe
+Fixed: No
+Offset: 16EA268h
+File GUID: A210F973-229D-4F4D-AA37-9895E6C9EABA
+Type: 07h
+Attributes: 10h
+Full size: B5Ah (2906)
+Header size: 18h (24)
+Body size: B42h (2882)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AAh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosDxe
+Fixed: No
+Offset: 2F8BC8h
+File GUID: F9D88642-0737-49BC-81B5-6889CD57D9EA
+Type: 07h
+Attributes: 00h
+Full size: 1668Eh (91790)
+Header size: 18h (24)
+Body size: 16676h (91766)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Ah, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: VSS entry
+Subtype: Auth
+Text: ResourceDistribution
+Fixed: Yes
+Base: EBD5F2h
+Offset: 25AAh
+Variable GUID: 0CE40A5F-153A-4462-A429-4098E0E13CAC
+Full size: 6Eh (110)
+Header size: 66h (102)
+Body size: 8h (8)
+State: 3Fh
+Reserved: 00h
+Attributes: 00000007h (NonVolatile, BootService, Runtime)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

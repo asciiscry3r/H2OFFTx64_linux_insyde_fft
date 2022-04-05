@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdPbsSetupDxe
+Fixed: No
+Offset: 179EE28h
+File GUID: BBB77CB9-762D-436C-AC40-8EE4901C3446
+Type: 07h
+Attributes: 00h
+Full size: EB06h (60166)
+Header size: 18h (24)
+Body size: EAEEh (60142)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Bh, valid
+Data checksum: AAh, valid

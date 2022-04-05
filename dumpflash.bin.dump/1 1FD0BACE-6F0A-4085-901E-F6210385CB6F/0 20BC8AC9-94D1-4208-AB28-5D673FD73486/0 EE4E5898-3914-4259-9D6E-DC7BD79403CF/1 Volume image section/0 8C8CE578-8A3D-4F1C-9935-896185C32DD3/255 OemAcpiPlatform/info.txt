@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemAcpiPlatform
+Fixed: No
+Offset: 1CF68C8h
+File GUID: 2D7FCD87-4554-4564-B811-0F9167F782B3
+Type: 07h
+Attributes: 00h
+Full size: 227Ah (8826)
+Header size: 18h (24)
+Body size: 2262h (8802)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Fh, valid
+Data checksum: AAh, valid

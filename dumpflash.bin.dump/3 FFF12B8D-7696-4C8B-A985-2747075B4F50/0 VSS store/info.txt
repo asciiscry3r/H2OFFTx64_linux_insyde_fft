@@ -1,0 +1,12 @@
+Type: VSS store
+Subtype: 
+Fixed: Yes
+Base: EBB048h
+Offset: 48h
+Signature: 53535624h
+Full size: 24FB8h (151480)
+Header size: 10h (16)
+Body size: 24FA8h (151464)
+Format: 5Ah
+State: FEh
+Unknown: 0000h

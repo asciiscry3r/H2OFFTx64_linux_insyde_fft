@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DelayUefiRaidOprom
+Fixed: No
+Offset: 45B410h
+File GUID: 13863F79-D94B-4205-BB0F-E4E06AAA5A4E
+Type: 07h
+Attributes: 00h
+Full size: 3F52h (16210)
+Header size: 18h (24)
+Body size: 3F3Ah (16186)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

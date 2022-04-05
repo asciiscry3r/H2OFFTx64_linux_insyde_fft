@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmdCpmPcieInitDxe
+Fixed: No
+Offset: 17903F0h
+File GUID: C5FA0EE8-2D81-4202-A021-3DA700B3DEAE
+Type: 07h
+Attributes: 00h
+Full size: 108Eh (4238)
+Header size: 18h (24)
+Body size: 1076h (4214)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D0h, valid
+Data checksum: AAh, valid

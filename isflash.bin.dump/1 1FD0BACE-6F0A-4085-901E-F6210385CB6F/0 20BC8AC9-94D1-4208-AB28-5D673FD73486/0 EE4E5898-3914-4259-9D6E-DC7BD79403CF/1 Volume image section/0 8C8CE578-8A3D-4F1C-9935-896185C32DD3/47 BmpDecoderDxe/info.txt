@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BmpDecoderDxe
+Fixed: No
+Offset: 1546B0h
+File GUID: A9F634A5-29F1-4456-A9D5-6E24B88BDB65
+Type: 07h
+Attributes: 00h
+Full size: EC2h (3778)
+Header size: 18h (24)
+Body size: EAAh (3754)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Ah, valid
+Data checksum: AAh, valid
